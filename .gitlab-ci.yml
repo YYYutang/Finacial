@@ -1,0 +1,46 @@
+stages:
+  - build
+  - deploy
+
+variables:
+  NPM_CONFIG_REGISTRY: https://registry.npmmirror.com
+  PROXY: http://10.16.107.90:18080
+
+
+before_script:
+  - export http_proxy=${PROXY}
+  - export https_proxy=${PROXY}
+
+
+
+build:
+  image: 10.16.127.139:8081/bigdata_platform/node:latest
+  stage: build
+
+  script:
+    - npm cache clean -force
+    - yarn config delete proxy
+    - yarn config delete https-proxy
+    - yarn config set proxy ${PROXY}
+    - yarn config set https-proxy ${PROXY}
+    - yarn config set registry ${NPM_CONFIG_REGISTRY}
+    - yarn config set strict-ssl false
+    - yarn config get registry
+    - yarn install
+    - yarn build
+  artifacts:
+    paths:
+      - ./dist
+    expire_in: 30 days
+
+
+deploy:
+  image: 10.16.127.139:8081/bigdata_platform/docker:19.03.12-dind
+  stage: deploy
+  before_script:
+    - "docker login 10.16.127.139:8081 -u admin -p 123456"
+  script:
+    - "docker build -t 10.16.127.139:8081/bigdata_platform/bigdata_web:latest ./"
+    - "if [ $(docker ps -aq --filter name=bigdata_web) ]; then docker rm -f bigdata_web;fi"
+    - "docker run -d --name=bigdata_web -p 10000:10000 10.16.127.139:8081/bigdata_platform/bigdata_web:latest"
+

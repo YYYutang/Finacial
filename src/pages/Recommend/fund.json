@@ -1,0 +1,3266 @@
+{
+  "0": {
+    "fundName": "180治理ETF",
+    "trusteeName": "中国农业银行股份有限公司",
+    "fundAbbr": "治理ETF",
+    "companyName": "交银施罗德基金管理有限公司",
+    "fundManager": "",
+    "fundCode": "510010"
+  },
+  "1": {
+    "fundName": "超大盘ETF",
+    "trusteeName": "中国建设银行股份有限公司",
+    "fundAbbr": "超大ETF",
+    "companyName": "博时基金管理有限公司",
+    "fundManager": "",
+    "fundCode": "510020"
+  },
+  "2": {
+    "fundName": "价值ETF",
+    "trusteeName": "中国工商银行股份有限公司",
+    "fundAbbr": "价值ETF",
+    "companyName": "华宝基金管理有限公司",
+    "fundManager": "",
+    "fundCode": "510030"
+  },
+  "3": {
+    "fundName": "上证50ETF",
+    "trusteeName": "中国工商银行股份有限公司",
+    "fundAbbr": "50ETF",
+    "companyName": "华夏基金管理有限公司",
+    "fundManager": "",
+    "fundCode": "510050"
+  },
+  "4": {
+    "fundName": "央企ETF",
+    "trusteeName": "招商银行股份有限公司",
+    "fundAbbr": "央企ETF",
+    "companyName": "工银瑞信基金管理有限公司",
+    "fundManager": "",
+    "fundCode": "510060"
+  },
+  "5": {
+    "fundName": "ESGETF基金",
+    "trusteeName": "中国工商银行股份有限公司",
+    "fundAbbr": "ESG建信",
+    "companyName": "建信基金管理有限责任公司",
+    "fundManager": "",
+    "fundCode": "510090"
+  },
+  "6": {
+    "fundName": "上证50ETF易方达",
+    "trusteeName": "招商银行股份有限公司",
+    "fundAbbr": "SZ50ETF",
+    "companyName": "易方达基金管理有限公司",
+    "fundManager": "余海燕、成曦",
+    "fundCode": "510100"
+  },
+  "7": {
+    "fundName": "周期ETF",
+    "trusteeName": "中国工商银行股份有限公司",
+    "fundAbbr": "周期ETF",
+    "companyName": "海富通基金管理有限公司",
+    "fundManager": "",
+    "fundCode": "510110"
+  },
+  "8": {
+    "fundName": "非周期ETF",
+    "trusteeName": "中国工商银行股份有限公司",
+    "fundAbbr": "非周ETF",
+    "companyName": "海富通基金管理有限公司",
+    "fundManager": "",
+    "fundCode": "510120"
+  },
+  "9": {
+    "fundName": "中盘ETF",
+    "trusteeName": "中国工商银行股份有限公司",
+    "fundAbbr": "中盘ETF",
+    "companyName": "易方达基金管理有限公司",
+    "fundManager": "",
+    "fundCode": "510130"
+  },
+  "10": {
+    "fundName": "消费ETF",
+    "trusteeName": "中国工商银行股份有限公司",
+    "fundAbbr": "消费ETF",
+    "companyName": "招商基金管理有限公司",
+    "fundManager": "",
+    "fundCode": "510150"
+  },
+  "11": {
+    "fundName": "产业升级ETF",
+    "trusteeName": "中国工商银行股份有限公司",
+    "fundAbbr": "产业升级",
+    "companyName": "南方基金管理股份有限公司",
+    "fundManager": "",
+    "fundCode": "510160"
+  },
+  "12": {
+    "fundName": "大宗商品ETF",
+    "trusteeName": "中国银行股份有限公司",
+    "fundAbbr": "商品ETF",
+    "companyName": "国联安基金管理有限公司",
+    "fundManager": "",
+    "fundCode": "510170"
+  },
+  "13": {
+    "fundName": "上证180ETF",
+    "trusteeName": "中国建设银行股份有限公司",
+    "fundAbbr": "180ETF",
+    "companyName": "华安基金管理有限公司",
+    "fundManager": "",
+    "fundCode": "510180"
+  },
+  "14": {
+    "fundName": "上证龙头ETF",
+    "trusteeName": "中国工商银行股份有限公司",
+    "fundAbbr": "龙头ETF",
+    "companyName": "华安基金管理有限公司",
+    "fundManager": "",
+    "fundCode": "510190"
+  },
+  "15": {
+    "fundName": "上证券商ETF",
+    "trusteeName": "兴业证券股份有限公司",
+    "fundAbbr": "上证券商",
+    "companyName": "汇安基金管理有限责任公司",
+    "fundManager": "朱晨歌",
+    "fundCode": "510200"
+  },
+  "16": {
+    "fundName": "上证指数ETF",
+    "trusteeName": "中国工商银行股份有限公司",
+    "fundAbbr": "综指ETF",
+    "companyName": "富国基金管理有限公司",
+    "fundManager": "",
+    "fundCode": "510210"
+  },
+  "17": {
+    "fundName": "中小盘ETF",
+    "trusteeName": "中国银行股份有限公司",
+    "fundAbbr": "中小ETF",
+    "companyName": "华泰柏瑞基金管理有限公司",
+    "fundManager": "",
+    "fundCode": "510220"
+  },
+  "18": {
+    "fundName": "金融ETF",
+    "trusteeName": "中国银行股份有限公司",
+    "fundAbbr": "金融ETF",
+    "companyName": "国泰基金管理有限公司",
+    "fundManager": "",
+    "fundCode": "510230"
+  },
+  "19": {
+    "fundName": "国企ETF",
+    "trusteeName": "招商银行股份有限公司",
+    "fundAbbr": "国企ETF",
+    "companyName": "中银基金管理有限公司",
+    "fundManager": "",
+    "fundCode": "510270"
+  },
+  "20": {
+    "fundName": "上证380ETF",
+    "trusteeName": "中国建设银行股份有限公司",
+    "fundAbbr": "380ETF",
+    "companyName": "南方基金管理股份有限公司",
+    "fundManager": "",
+    "fundCode": "510290"
+  },
+  "21": {
+    "fundName": "沪深300ETF",
+    "trusteeName": "中国工商银行股份有限公司",
+    "fundAbbr": "300ETF",
+    "companyName": "华泰柏瑞基金管理有限公司",
+    "fundManager": "",
+    "fundCode": "510300"
+  },
+  "22": {
+    "fundName": "沪深300ETF易方达",
+    "trusteeName": "中国建设银行股份有限公司",
+    "fundAbbr": "HS300ETF",
+    "companyName": "易方达基金管理有限公司",
+    "fundManager": "",
+    "fundCode": "510310"
+  },
+  "23": {
+    "fundName": "300ETF基金",
+    "trusteeName": "中国工商银行股份有限公司",
+    "fundAbbr": "华夏300",
+    "companyName": "华夏基金管理有限公司",
+    "fundManager": "华夏基金管理有限公司",
+    "fundCode": "510330"
+  },
+  "24": {
+    "fundName": "工银沪深300ETF",
+    "trusteeName": "中国农业银行股份有限公司",
+    "fundAbbr": "工银300",
+    "companyName": "工银瑞信基金管理有限公司",
+    "fundManager": "刘伟琳",
+    "fundCode": "510350"
+  },
+  "25": {
+    "fundName": "沪深300ETF基金",
+    "trusteeName": "中国工商银行股份有限公司",
+    "fundAbbr": "广发300",
+    "companyName": "广发基金管理有限公司",
+    "fundManager": "广发基金管理有限公司",
+    "fundCode": "510360"
+  },
+  "26": {
+    "fundName": "兴业沪深300ETF",
+    "trusteeName": "中信银行股份有限公司",
+    "fundAbbr": "兴业300",
+    "companyName": "兴业基金管理有限公司",
+    "fundManager": "那赛男",
+    "fundCode": "510370"
+  },
+  "27": {
+    "fundName": "国寿300ETF",
+    "trusteeName": "中国农业银行股份有限公司",
+    "fundAbbr": "国寿300",
+    "companyName": "国寿安保基金管理有限公司",
+    "fundManager": "李康",
+    "fundCode": "510380"
+  },
+  "28": {
+    "fundName": "平安沪深300ETF",
+    "trusteeName": "中国工商银行股份有限公司",
+    "fundAbbr": "平安300",
+    "companyName": "平安基金管理有限公司",
+    "fundManager": "成钧",
+    "fundCode": "510390"
+  },
+  "29": {
+    "fundName": "资源ETF",
+    "trusteeName": "中国建设银行股份有限公司",
+    "fundAbbr": "资源ETF",
+    "companyName": "博时基金管理有限公司",
+    "fundManager": "博时基金管理有限公司",
+    "fundCode": "510410"
+  },
+  "30": {
+    "fundName": "500沪市ETF",
+    "trusteeName": "中国银行股份有限公司",
+    "fundAbbr": "500沪市",
+    "companyName": "大成基金管理有限公司",
+    "fundManager": "",
+    "fundCode": "510440"
+  },
+  "31": {
+    "fundName": "中证500ETF",
+    "trusteeName": "中国农业银行股份有限公司",
+    "fundAbbr": "500ETF",
+    "companyName": "南方基金管理股份有限公司",
+    "fundManager": "南方基金管理有限公司",
+    "fundCode": "510500"
+  },
+  "32": {
+    "fundName": "中证500ETF基金",
+    "trusteeName": "中国工商银行股份有限公司",
+    "fundAbbr": "广发500",
+    "companyName": "广发基金管理有限公司",
+    "fundManager": "",
+    "fundCode": "510510"
+  },
+  "33": {
+    "fundName": "工银中证500ETF",
+    "trusteeName": "中国银行股份有限公司",
+    "fundAbbr": "工银500",
+    "companyName": "工银瑞信基金管理有限公司",
+    "fundManager": "赵栩和刘伟琳",
+    "fundCode": "510530"
+  },
+  "34": {
+    "fundName": "方正中证500ETF",
+    "trusteeName": "中国建设银行股份有限公司",
+    "fundAbbr": "方正500",
+    "companyName": "方正富邦基金管理有限公司",
+    "fundManager": "吴昊",
+    "fundCode": "510550"
+  },
+  "35": {
+    "fundName": "国寿500ETF",
+    "trusteeName": "中国农业银行股份有限公司",
+    "fundAbbr": "国寿500",
+    "companyName": "国寿安保基金管理有限公司",
+    "fundManager": "国寿安保基金管理有限公司",
+    "fundCode": "510560"
+  },
+  "36": {
+    "fundName": "兴业中证500ETF",
+    "trusteeName": "中国银行股份有限公司",
+    "fundAbbr": "兴业500",
+    "companyName": "兴业基金管理有限公司",
+    "fundManager": "那赛男",
+    "fundCode": "510570"
+  },
+  "37": {
+    "fundName": "中证500ETF易方达",
+    "trusteeName": "中国工商银行股份有限公司",
+    "fundAbbr": "ZZ500ETF",
+    "companyName": "易方达基金管理有限公司",
+    "fundManager": "",
+    "fundCode": "510580"
+  },
+  "38": {
+    "fundName": "平安中证500ETF",
+    "trusteeName": "平安银行股份有限公司",
+    "fundAbbr": "平安500",
+    "companyName": "平安基金管理有限公司",
+    "fundManager": "成钧",
+    "fundCode": "510590"
+  },
+  "39": {
+    "fundName": "申万上证50ETF",
+    "trusteeName": "中国工商银行股份有限公司",
+    "fundAbbr": "沪50ETF",
+    "companyName": "申万菱信基金管理有限公司",
+    "fundManager": "荆一帆",
+    "fundCode": "510600"
+  },
+  "40": {
+    "fundName": "消费ETF基金",
+    "trusteeName": "中国建设银行股份有限公司",
+    "fundAbbr": "消费行业",
+    "companyName": "华夏基金管理有限公司",
+    "fundManager": "",
+    "fundCode": "510630"
+  },
+  "41": {
+    "fundName": "金融地产ETF",
+    "trusteeName": "中国建设银行股份有限公司",
+    "fundAbbr": "金融行业",
+    "companyName": "华夏基金管理有限公司",
+    "fundManager": "",
+    "fundCode": "510650"
+  },
+  "42": {
+    "fundName": "医药卫生ETF",
+    "trusteeName": "中国建设银行股份有限公司",
+    "fundAbbr": "医药行业",
+    "companyName": "华夏基金管理有限公司",
+    "fundManager": "",
+    "fundCode": "510660"
+  },
+  "43": {
+    "fundName": "上证50ETF基金",
+    "trusteeName": "华夏银行股份有限公司",
+    "fundAbbr": "万家50",
+    "companyName": "万家基金管理有限公司",
+    "fundManager": "万家基金管理有限公司",
+    "fundCode": "510680"
+  },
+  "44": {
+    "fundName": "上证50ETF博时",
+    "trusteeName": "招商银行股份有限公司",
+    "fundAbbr": "上50ETF",
+    "companyName": "博时基金管理有限公司",
+    "fundManager": "博时基金管理有限公司",
+    "fundCode": "510710"
+  },
+  "45": {
+    "fundName": "上证综指ETF",
+    "trusteeName": "上海银行股份有限公司",
+    "fundAbbr": "上证ETF",
+    "companyName": "国泰基金管理有限公司",
+    "fundManager": "梁杏、谢东旭",
+    "fundCode": "510760"
+  },
+  "46": {
+    "fundName": "G60创新ETF",
+    "trusteeName": "兴业银行股份有限公司",
+    "fundAbbr": "G60创新",
+    "companyName": "申万菱信基金管理有限公司",
+    "fundManager": "龚丽丽",
+    "fundCode": "510770"
+  },
+  "47": {
+    "fundName": "50ETF基金",
+    "trusteeName": "中国银河证券股份有限公司",
+    "fundAbbr": "上证50",
+    "companyName": "建信基金管理有限责任公司",
+    "fundManager": "薛玲",
+    "fundCode": "510800"
+  },
+  "48": {
+    "fundName": "上海国企ETF",
+    "trusteeName": "中国工商银行股份有限公司",
+    "fundAbbr": "上海国企",
+    "companyName": "汇添富基金管理股份有限公司",
+    "fundManager": "汇添富基金管理有限公司",
+    "fundCode": "510810"
+  },
+  "49": {
+    "fundName": "工银上证50ETF",
+    "trusteeName": "招商银行股份有限公司",
+    "fundAbbr": "工银上50",
+    "companyName": "工银瑞信基金管理有限公司",
+    "fundManager": "赵栩",
+    "fundCode": "510850"
+  },
+  "50": {
+    "fundName": "红利ETF",
+    "trusteeName": "招商银行股份有限公司",
+    "fundAbbr": "红利ETF",
+    "companyName": "华泰柏瑞基金管理有限公司",
+    "fundManager": "",
+    "fundCode": "510880"
+  },
+  "51": {
+    "fundName": "H股ETF",
+    "trusteeName": "交通银行股份有限公司",
+    "fundAbbr": "H股ETF",
+    "companyName": "易方达基金管理有限公司",
+    "fundManager": "",
+    "fundCode": "510900"
+  },
+  "52": {
+    "fundName": "180ESGETF",
+    "trusteeName": "招商银行股份有限公司",
+    "fundAbbr": "ESG180",
+    "companyName": "工银瑞信基金管理有限公司",
+    "fundManager": "邓皓友",
+    "fundCode": "510990"
+  },
+  "53": {
+    "fundName": "国债ETF",
+    "trusteeName": "中国建设银行股份有限公司",
+    "fundAbbr": "国债ETF",
+    "companyName": "国泰基金管理有限公司",
+    "fundManager": "",
+    "fundCode": "511010"
+  },
+  "54": {
+    "fundName": "活跃国债ETF",
+    "trusteeName": "平安银行股份有限公司",
+    "fundAbbr": "活跃国债",
+    "companyName": "平安基金管理有限公司",
+    "fundManager": "李宪",
+    "fundCode": "511020"
+  },
+  "55": {
+    "fundName": "公司债ETF",
+    "trusteeName": "平安银行股份有限公司",
+    "fundAbbr": "公司债",
+    "companyName": "平安基金管理有限公司",
+    "fundManager": "李宪",
+    "fundCode": "511030"
+  },
+  "56": {
+    "fundName": "5年地方债ETF",
+    "trusteeName": "招商银行股份有限公司",
+    "fundAbbr": "5年地债",
+    "companyName": "海富通基金管理有限公司",
+    "fundManager": "陈轶平",
+    "fundCode": "511060"
+  },
+  "57": {
+    "fundName": "上证可转债ETF",
+    "trusteeName": "中信证券股份有限公司",
+    "fundAbbr": "上证转债",
+    "companyName": "海富通基金管理有限公司",
+    "fundManager": "陈轶平",
+    "fundCode": "511180"
+  },
+  "58": {
+    "fundName": "城投债ETF",
+    "trusteeName": "中国银行股份有限公司",
+    "fundAbbr": "城投ETF",
+    "companyName": "海富通基金管理有限公司",
+    "fundManager": "海富通基金管理有限公司",
+    "fundCode": "511220"
+  },
+  "59": {
+    "fundName": "十年国债ETF",
+    "trusteeName": "中国建设银行股份有限公司",
+    "fundAbbr": "十年国债",
+    "companyName": "国泰基金管理有限公司",
+    "fundManager": "韩哲昊",
+    "fundCode": "511260"
+  },
+  "60": {
+    "fundName": "10年地方债ETF",
+    "trusteeName": "中国银行股份有限公司",
+    "fundAbbr": "10年地债",
+    "companyName": "海富通基金管理有限公司",
+    "fundManager": "陈轶平",
+    "fundCode": "511270"
+  },
+  "61": {
+    "fundName": "10年国债ETF",
+    "trusteeName": "中国工商银行股份有限公司",
+    "fundAbbr": "十年债",
+    "companyName": "富国基金管理有限公司",
+    "fundManager": "王保合",
+    "fundCode": "511310"
+  },
+  "62": {
+    "fundName": "短融ETF",
+    "trusteeName": "兴业银行股份有限公司",
+    "fundAbbr": "短融ETF",
+    "companyName": "海富通基金管理有限公司",
+    "fundManager": "陆丛凡",
+    "fundCode": "511360"
+  },
+  "63": {
+    "fundName": "可转债ETF",
+    "trusteeName": "招商银行股份有限公司",
+    "fundAbbr": "转债ETF",
+    "companyName": "博时基金管理有限公司",
+    "fundManager": "邓欣雨",
+    "fundCode": "511380"
+  },
+  "64": {
+    "fundName": "券商ETF",
+    "trusteeName": "中国建设银行股份有限公司",
+    "fundAbbr": "券商ETF",
+    "companyName": "华宝基金管理有限公司",
+    "fundManager": "华宝兴业基金管理有限公司",
+    "fundCode": "512000"
+  },
+  "65": {
+    "fundName": "医药ETF",
+    "trusteeName": "中国建设银行股份有限公司",
+    "fundAbbr": "医药ETF",
+    "companyName": "易方达基金管理有限公司",
+    "fundManager": "",
+    "fundCode": "512010"
+  },
+  "66": {
+    "fundName": "价值100ETF",
+    "trusteeName": "中国建设银行股份有限公司",
+    "fundAbbr": "国信价值",
+    "companyName": "富国基金管理有限公司",
+    "fundManager": "王乐乐、牛志冬",
+    "fundCode": "512040"
+  },
+  "67": {
+    "fundName": "证券保险ETF",
+    "trusteeName": "中国建设银行股份有限公司",
+    "fundAbbr": "证券保险",
+    "companyName": "易方达基金管理有限公司",
+    "fundManager": "",
+    "fundCode": "512070"
+  },
+  "68": {
+    "fundName": "MSCIA股ETF易方达",
+    "trusteeName": "中国银行股份有限公司",
+    "fundAbbr": "MSCI易基",
+    "companyName": "易方达基金管理有限公司",
+    "fundManager": "成曦、范冰",
+    "fundCode": "512090"
+  },
+  "69": {
+    "fundName": "中证1000ETF",
+    "trusteeName": "招商银行股份有限公司",
+    "fundAbbr": "1000ETF",
+    "companyName": "南方基金管理股份有限公司",
+    "fundManager": "南方基金管理有限公司",
+    "fundCode": "512100"
+  },
+  "70": {
+    "fundName": "医药50ETF",
+    "trusteeName": "中国建设银行股份有限公司",
+    "fundAbbr": "医药50",
+    "companyName": "华安基金管理有限公司",
+    "fundManager": "华安基金管理有限公司",
+    "fundCode": "512120"
+  },
+  "71": {
+    "fundName": "A50ETF",
+    "trusteeName": "中国工商银行股份有限公司",
+    "fundAbbr": "A50ETF",
+    "companyName": "汇安基金管理有限责任公司",
+    "fundManager": "计伟",
+    "fundCode": "512150"
+  },
+  "72": {
+    "fundName": "MSCI中国A股ETF",
+    "trusteeName": "中国银行股份有限公司",
+    "fundAbbr": "MSCI基金",
+    "companyName": "南方基金管理股份有限公司",
+    "fundManager": "罗文杰",
+    "fundCode": "512160"
+  },
+  "73": {
+    "fundName": "医疗ETF",
+    "trusteeName": "中国银行股份有限公司",
+    "fundAbbr": "医疗ETF",
+    "companyName": "华宝基金管理有限公司",
+    "fundManager": "胡洁",
+    "fundCode": "512170"
+  },
+  "74": {
+    "fundName": "MSCIA股ETF基金",
+    "trusteeName": "中国国际金融股份有限公司",
+    "fundAbbr": "建信MSCI",
+    "companyName": "建信基金管理有限责任公司",
+    "fundManager": "梁洪昀",
+    "fundCode": "512180"
+  },
+  "75": {
+    "fundName": "浙商之江凤凰ETF",
+    "trusteeName": "中国银行股份有限公司",
+    "fundAbbr": "之江凤凰",
+    "companyName": "浙江浙商证券资产管理有限公司",
+    "fundManager": "马斌博",
+    "fundCode": "512190"
+  },
+  "76": {
+    "fundName": "房地产ETF",
+    "trusteeName": "中国工商银行股份有限公司",
+    "fundAbbr": "地产ETF",
+    "companyName": "南方基金管理股份有限公司",
+    "fundManager": "罗文杰",
+    "fundCode": "512200"
+  },
+  "77": {
+    "fundName": "科技ETF150",
+    "trusteeName": "中国银行股份有限公司",
+    "fundAbbr": "科技150",
+    "companyName": "景顺长城基金管理有限公司",
+    "fundManager": "景顺长城基金管理有限公司",
+    "fundCode": "512220"
+  },
+  "78": {
+    "fundName": "中证500低波ETF",
+    "trusteeName": "中国建设银行股份有限公司",
+    "fundAbbr": "500低波",
+    "companyName": "华安基金管理有限公司",
+    "fundManager": "苏卿云",
+    "fundCode": "512260"
+  },
+  "79": {
+    "fundName": "景顺MSCIA股ETF",
+    "trusteeName": "中国农业银行股份有限公司",
+    "fundAbbr": "景顺MSCI",
+    "companyName": "景顺长城基金管理有限公司",
+    "fundManager": "徐喻军",
+    "fundCode": "512280"
+  },
+  "80": {
+    "fundName": "生物医药ETF",
+    "trusteeName": "中国银行股份有限公司",
+    "fundAbbr": "生物医药",
+    "companyName": "国泰基金管理有限公司",
+    "fundManager": "梁杏、徐成城",
+    "fundCode": "512290"
+  },
+  "81": {
+    "fundName": "工银MSCI中国ETF",
+    "trusteeName": "中信建投证券股份有限公司",
+    "fundAbbr": "工银MSCI",
+    "companyName": "工银瑞信基金管理有限公司",
+    "fundManager": "邓皓友",
+    "fundCode": "512320"
+  },
+  "82": {
+    "fundName": "信息科技ETF",
+    "trusteeName": "中国农业银行股份有限公司",
+    "fundAbbr": "信息ETF",
+    "companyName": "南方基金管理股份有限公司",
+    "fundManager": "南方基金管理有限公司",
+    "fundCode": "512330"
+  },
+  "83": {
+    "fundName": "平安MSCI国际ETF",
+    "trusteeName": "中国工商银行股份有限公司",
+    "fundAbbr": "MSCI国际",
+    "companyName": "平安基金管理有限公司",
+    "fundManager": "成钧",
+    "fundCode": "512360"
+  },
+  "84": {
+    "fundName": "MSCI中国ETF",
+    "trusteeName": "中国工商银行股份有限公司",
+    "fundAbbr": "MSCI中国",
+    "companyName": "银华基金管理股份有限公司",
+    "fundManager": "周大鹏先生",
+    "fundCode": "512380"
+  },
+  "85": {
+    "fundName": "平安MSCI低波ETF",
+    "trusteeName": "平安银行股份有限公司",
+    "fundAbbr": "MSCI低波",
+    "companyName": "平安基金管理有限公司",
+    "fundManager": "成钧",
+    "fundCode": "512390"
+  },
+  "86": {
+    "fundName": "有色金属ETF",
+    "trusteeName": "中国工商银行股份有限公司",
+    "fundAbbr": "有色ETF",
+    "companyName": "南方基金管理股份有限公司",
+    "fundManager": "周豪",
+    "fundCode": "512400"
+  },
+  "87": {
+    "fundName": "半导体ETF",
+    "trusteeName": "国泰君安证券股份有限公司",
+    "fundAbbr": "半导体",
+    "companyName": "国联安基金管理有限公司",
+    "fundManager": "黄欣",
+    "fundCode": "512480"
+  },
+  "88": {
+    "fundName": "500ETF基金",
+    "trusteeName": "中国建设银行股份有限公司",
+    "fundAbbr": "中证500",
+    "companyName": "华夏基金管理有限公司",
+    "fundManager": "华夏基金管理有限公司",
+    "fundCode": "512500"
+  },
+  "89": {
+    "fundName": "中证500指数ETF",
+    "trusteeName": "中国银行股份有限公司",
+    "fundAbbr": "ETF500",
+    "companyName": "华泰柏瑞基金管理有限公司",
+    "fundManager": "",
+    "fundCode": "512510"
+  },
+  "90": {
+    "fundName": "MSCIETF",
+    "trusteeName": "中国建设银行股份有限公司",
+    "fundAbbr": "MSCIETF",
+    "companyName": "华泰柏瑞基金管理有限公司",
+    "fundManager": "柳军",
+    "fundCode": "512520"
+  },
+  "91": {
+    "fundName": "沪深300红利ETF",
+    "trusteeName": "中信证券股份有限公司",
+    "fundAbbr": "300红利",
+    "companyName": "建信基金管理有限责任公司",
+    "fundManager": "龚佳佳",
+    "fundCode": "512530"
+  },
+  "92": {
+    "fundName": "A50ETF基金",
+    "trusteeName": "中国银行股份有限公司",
+    "fundAbbr": "A50基金",
+    "companyName": "嘉实基金管理有限公司",
+    "fundManager": "嘉实基金管理有限公司",
+    "fundCode": "512550"
+  },
+  "93": {
+    "fundName": "军工ETF易方达",
+    "trusteeName": "招商银行股份有限公司",
+    "fundAbbr": "中证军工",
+    "companyName": "易方达基金管理有限公司",
+    "fundManager": "余海燕",
+    "fundCode": "512560"
+  },
+  "94": {
+    "fundName": "证券ETF易方达",
+    "trusteeName": "招商银行股份有限公司",
+    "fundAbbr": "中证证券",
+    "companyName": "易方达基金管理有限公司",
+    "fundManager": "余海燕",
+    "fundCode": "512570"
+  },
+  "95": {
+    "fundName": "碳中和龙头ETF",
+    "trusteeName": "中国银行股份有限公司",
+    "fundAbbr": "碳中和",
+    "companyName": "广发基金管理有限公司",
+    "fundManager": "广发基金管理有限公司",
+    "fundCode": "512580"
+  },
+  "96": {
+    "fundName": "高股息ETF",
+    "trusteeName": "交通银行股份有限公司",
+    "fundAbbr": "高股息",
+    "companyName": "浦银安盛基金管理有限公司",
+    "fundManager": "陈士俊",
+    "fundCode": "512590"
+  },
+  "97": {
+    "fundName": "必选消费ETF",
+    "trusteeName": "中国银行股份有限公司",
+    "fundAbbr": "必选消费",
+    "companyName": "嘉实基金管理有限公司",
+    "fundManager": "嘉实基金管理有限公司",
+    "fundCode": "512600"
+  },
+  "98": {
+    "fundName": "医药卫生ETF基金",
+    "trusteeName": "中国银行股份有限公司",
+    "fundAbbr": "医药卫生",
+    "companyName": "嘉实基金管理有限公司",
+    "fundManager": "嘉实基金管理有限公司",
+    "fundCode": "512610"
+  },
+  "99": {
+    "fundName": "金融地产ETF基金",
+    "trusteeName": "中国银行股份有限公司",
+    "fundAbbr": "金融地产",
+    "companyName": "嘉实基金管理有限公司",
+    "fundManager": "嘉实基金管理有限公司",
+    "fundCode": "512640"
+  },
+  "100": {
+    "fundName": "长三角ETF",
+    "trusteeName": "上海浦东发展银行股份有限公司",
+    "fundAbbr": "长三角",
+    "companyName": "汇添富基金管理股份有限公司",
+    "fundManager": "吴振翔、乐无穹",
+    "fundCode": "512650"
+  },
+  "101": {
+    "fundName": "军工ETF",
+    "trusteeName": "中国建设银行股份有限公司",
+    "fundAbbr": "军工ETF",
+    "companyName": "国泰基金管理有限公司",
+    "fundManager": "国泰基金管理有限公司",
+    "fundCode": "512660"
+  },
+  "102": {
+    "fundName": "国防ETF",
+    "trusteeName": "中国建设银行股份有限公司",
+    "fundAbbr": "国防ETF",
+    "companyName": "鹏华基金管理有限公司",
+    "fundManager": "张羽翔",
+    "fundCode": "512670"
+  },
+  "103": {
+    "fundName": "军工ETF基金",
+    "trusteeName": "中国工商银行股份有限公司",
+    "fundAbbr": "军工基金",
+    "companyName": "广发基金管理有限公司",
+    "fundManager": "广发基金管理有限公司",
+    "fundCode": "512680"
+  },
+  "104": {
+    "fundName": "酒ETF",
+    "trusteeName": "中国建设银行股份有限公司",
+    "fundAbbr": "酒ETF",
+    "companyName": "鹏华基金管理有限公司",
+    "fundManager": "张羽翔",
+    "fundCode": "512690"
+  },
+  "105": {
+    "fundName": "银行ETF基金",
+    "trusteeName": "中国工商银行股份有限公司",
+    "fundAbbr": "银行基金",
+    "companyName": "南方基金管理股份有限公司",
+    "fundManager": "孙伟",
+    "fundCode": "512700"
+  },
+  "106": {
+    "fundName": "军工龙头ETF",
+    "trusteeName": "中国建设银行股份有限公司",
+    "fundAbbr": "军工龙头",
+    "companyName": "富国基金管理有限公司",
+    "fundManager": "王乐乐，牛志冬",
+    "fundCode": "512710"
+  },
+  "107": {
+    "fundName": "计算机ETF",
+    "trusteeName": "中国农业银行",
+    "fundAbbr": "计算机",
+    "companyName": "国泰基金管理有限公司",
+    "fundManager": "艾小军",
+    "fundCode": "512720"
+  },
+  "108": {
+    "fundName": "中证银行ETF",
+    "trusteeName": "中国建设银行",
+    "fundAbbr": "银行FUND",
+    "companyName": "鹏华基金管理有限公司",
+    "fundManager": "张羽翔",
+    "fundCode": "512730"
+  },
+  "109": {
+    "fundName": "基本面50ETF",
+    "trusteeName": "工商银行股份有限公司",
+    "fundAbbr": "基本面50",
+    "companyName": "嘉实基金管理有限公司",
+    "fundManager": "陈正宪、何如",
+    "fundCode": "512750"
+  },
+  "110": {
+    "fundName": "芯片ETF",
+    "trusteeName": "中国银行股份有限公司",
+    "fundAbbr": "芯片ETF",
+    "companyName": "国泰基金管理有限公司",
+    "fundManager": "艾小军",
+    "fundCode": "512760"
+  },
+  "111": {
+    "fundName": "战略新兴ETF",
+    "trusteeName": "中国建设银行股份有限公司",
+    "fundAbbr": "战略新兴",
+    "companyName": "华夏基金管理有限公司",
+    "fundManager": "徐猛",
+    "fundCode": "512770"
+  },
+  "112": {
+    "fundName": "京津冀ETF",
+    "trusteeName": "中国工商银行股份有限公司",
+    "fundAbbr": "京津冀基",
+    "companyName": "广发基金管理有限公司",
+    "fundManager": "霍华明",
+    "fundCode": "512780"
+  },
+  "113": {
+    "fundName": "银行ETF",
+    "trusteeName": "中国银行股份有限公司",
+    "fundAbbr": "银行ETF",
+    "companyName": "华宝基金管理有限公司",
+    "fundManager": "胡洁",
+    "fundCode": "512800"
+  },
+  "114": {
+    "fundName": "国防军工ETF",
+    "trusteeName": "中国建设银行股份有限公司",
+    "fundAbbr": "国防军工",
+    "companyName": "华宝基金管理有限公司",
+    "fundManager": "华宝兴业基金管理有限公司",
+    "fundCode": "512810"
+  },
+  "115": {
+    "fundName": "银行业ETF",
+    "trusteeName": "招商银行股份有限公司",
+    "fundAbbr": "银行股基",
+    "companyName": "汇添富基金管理股份有限公司",
+    "fundManager": "过蓓蓓",
+    "fundCode": "512820"
+  },
+  "116": {
+    "fundName": "杭州湾区ETF",
+    "trusteeName": "中国银行股份有限公司",
+    "fundAbbr": "杭州湾区",
+    "companyName": "南华基金管理有限公司",
+    "fundManager": "周昱峰",
+    "fundCode": "512870"
+  },
+  "117": {
+    "fundName": "证券ETF",
+    "trusteeName": "中国建设银行股份有限公司",
+    "fundAbbr": "证券ETF",
+    "companyName": "国泰基金管理有限公司",
+    "fundManager": "国泰基金管理有限公司",
+    "fundCode": "512880"
+  },
+  "118": {
+    "fundName": "红利低波ETF",
+    "trusteeName": "中国建设银行股份有限公司",
+    "fundAbbr": "红利LV",
+    "companyName": "华泰柏瑞基金管理有限公司",
+    "fundManager": "柳军",
+    "fundCode": "512890"
+  },
+  "119": {
+    "fundName": "证券ETF基金",
+    "trusteeName": "中国银行股份有限公司",
+    "fundAbbr": "证券基金",
+    "companyName": "南方基金管理股份有限公司",
+    "fundManager": "南方基金管理有限公司",
+    "fundCode": "512900"
+  },
+  "120": {
+    "fundName": "中证100ETF",
+    "trusteeName": "中国工商银行股份有限公司",
+    "fundAbbr": "100ETF",
+    "companyName": "广发基金管理有限公司",
+    "fundManager": "罗国庆",
+    "fundCode": "512910"
+  },
+  "121": {
+    "fundName": "MSCIETF新华",
+    "trusteeName": "中国农业银行股份有限公司",
+    "fundAbbr": "MSCI新华",
+    "companyName": "新华基金管理股份有限公司",
+    "fundManager": "邓岳",
+    "fundCode": "512920"
+  },
+  "122": {
+    "fundName": "AIETF",
+    "trusteeName": "交通银行股份有限公司",
+    "fundAbbr": "AIETF",
+    "companyName": "平安基金管理有限公司",
+    "fundManager": "钱晶",
+    "fundCode": "512930"
+  },
+  "123": {
+    "fundName": "央企改革ETF",
+    "trusteeName": "中国农业银行股份有限公司",
+    "fundAbbr": "央企改革",
+    "companyName": "华夏基金管理有限公司",
+    "fundManager": "荣膺、庞亚平",
+    "fundCode": "512950"
+  },
+  "124": {
+    "fundName": "央调ETF",
+    "trusteeName": "招商银行股份有限公司",
+    "fundAbbr": "央调ETF",
+    "companyName": "博时基金管理有限公司",
+    "fundManager": "赵云阳",
+    "fundCode": "512960"
+  },
+  "125": {
+    "fundName": "大湾区ETF",
+    "trusteeName": "中国工商银行股份有限公司",
+    "fundAbbr": "湾区ETF",
+    "companyName": "平安基金管理有限公司",
+    "fundManager": "成钧",
+    "fundCode": "512970"
+  },
+  "126": {
+    "fundName": "传媒ETF",
+    "trusteeName": "中国工商银行股份有限公司",
+    "fundAbbr": "传媒ETF",
+    "companyName": "广发基金管理有限公司",
+    "fundManager": "罗国庆",
+    "fundCode": "512980"
+  },
+  "127": {
+    "fundName": "MSCIA股ETF",
+    "trusteeName": "中国银行股份有限公司",
+    "fundAbbr": "MSCIA股",
+    "companyName": "华夏基金管理有限公司",
+    "fundManager": "",
+    "fundCode": "512990"
+  },
+  "128": {
+    "fundName": "日经225ETF易方达",
+    "trusteeName": "中国工商银行股份有限公司",
+    "fundAbbr": "225ETF",
+    "companyName": "易方达基金管理有限公司",
+    "fundManager": "范冰、余海燕",
+    "fundCode": "513000"
+  },
+  "129": {
+    "fundName": "恒生科技30ETF",
+    "trusteeName": "招商银行股份有限公司",
+    "fundAbbr": "港股科技",
+    "companyName": "易方达基金管理有限公司",
+    "fundManager": "范冰、成曦",
+    "fundCode": "513010"
+  },
+  "130": {
+    "fundName": "港股科技ETF",
+    "trusteeName": "招商银行股份有限公司",
+    "fundAbbr": "科技HK",
+    "companyName": "国泰基金管理有限公司",
+    "fundManager": "梁杏、吴向军",
+    "fundCode": "513020"
+  },
+  "131": {
+    "fundName": "德国ETF",
+    "trusteeName": "招商银行股份有限公司",
+    "fundAbbr": "德国ETF",
+    "companyName": "华安基金管理有限公司",
+    "fundManager": "华安基金管理有限公司",
+    "fundCode": "513030"
+  },
+  "132": {
+    "fundName": "中概互联网ETF",
+    "trusteeName": "招商银行股份有限公司",
+    "fundAbbr": "中概互联",
+    "companyName": "易方达基金管理有限公司",
+    "fundManager": "",
+    "fundCode": "513050"
+  },
+  "133": {
+    "fundName": "恒生医疗ETF",
+    "trusteeName": "中国农业银行股份有限公司",
+    "fundAbbr": "恒生医疗",
+    "companyName": "博时基金管理有限公司",
+    "fundManager": "万琼",
+    "fundCode": "513060"
+  },
+  "134": {
+    "fundName": "港股消费50ETF",
+    "trusteeName": "招商银行股份有限公司",
+    "fundAbbr": "HK消费50",
+    "companyName": "易方达基金管理有限公司",
+    "fundManager": "FAN BING（范冰）",
+    "fundCode": "513070"
+  },
+  "135": {
+    "fundName": "法国CAC40ETF",
+    "trusteeName": "中国银行股份有限公司",
+    "fundAbbr": "法国ETF",
+    "companyName": "华安基金管理有限公司",
+    "fundManager": "倪斌",
+    "fundCode": "513080"
+  },
+  "136": {
+    "fundName": "香港证券ETF",
+    "trusteeName": "招商银行股份有限公司",
+    "fundAbbr": "香港证券",
+    "companyName": "易方达基金管理有限公司",
+    "fundManager": "范冰、成曦",
+    "fundCode": "513090"
+  },
+  "137": {
+    "fundName": "纳指ETF",
+    "trusteeName": "中国建设银行股份有限公司",
+    "fundAbbr": "纳指ETF",
+    "companyName": "国泰基金管理有限公司",
+    "fundManager": "",
+    "fundCode": "513100"
+  },
+  "138": {
+    "fundName": "恒生科技ETF",
+    "trusteeName": "中国建设银行股份有限公司",
+    "fundAbbr": "恒生科技",
+    "companyName": "华泰柏瑞基金管理有限公司",
+    "fundManager": "柳军，何琦",
+    "fundCode": "513130"
+  },
+  "139": {
+    "fundName": "港股通科技50ETF",
+    "trusteeName": "中国银行股份有限公司",
+    "fundAbbr": "港科技50",
+    "companyName": "华泰柏瑞基金管理有限公司",
+    "fundManager": "谭弘翔、何琦",
+    "fundCode": "513150"
+  },
+  "140": {
+    "fundName": "港股科技30ETF",
+    "trusteeName": "招商银行股份有限公司",
+    "fundAbbr": "科技30",
+    "companyName": "银华基金管理股份有限公司",
+    "fundManager": "李宜璇女士",
+    "fundCode": "513160"
+  },
+  "141": {
+    "fundName": "恒生科技指数ETF",
+    "trusteeName": "中国建设银行股份有限公司",
+    "fundAbbr": "恒指科技",
+    "companyName": "华夏基金管理有限公司",
+    "fundManager": "徐猛",
+    "fundCode": "513180"
+  },
+  "142": {
+    "fundName": "港股通医药ETF",
+    "trusteeName": "中国光大银行股份有限公司",
+    "fundAbbr": "港股医药",
+    "companyName": "易方达基金管理有限公司",
+    "fundManager": "成曦",
+    "fundCode": "513200"
+  },
+  "143": {
+    "fundName": "港股消费ETF",
+    "trusteeName": "交通银行股份有限公司",
+    "fundAbbr": "H股消费",
+    "companyName": "华夏基金管理有限公司",
+    "fundManager": "严筱娴",
+    "fundCode": "513230"
+  },
+  "144": {
+    "fundName": "纳斯达克ETF",
+    "trusteeName": "中国工商银行股份有限公司",
+    "fundAbbr": "纳斯达克",
+    "companyName": "华夏基金管理有限公司",
+    "fundManager": "赵宗庭",
+    "fundCode": "513300"
+  },
+  "145": {
+    "fundName": "恒生新经济ETF",
+    "trusteeName": "招商银行股份有限公司",
+    "fundAbbr": "HK新经济",
+    "companyName": "易方达基金管理有限公司",
+    "fundManager": "FAN BING（范冰）、宋钊贤",
+    "fundCode": "513320"
+  },
+  "146": {
+    "fundName": "恒生互联网ETF",
+    "trusteeName": "中国建设银行股份有限公司",
+    "fundAbbr": "恒生互联",
+    "companyName": "华夏基金管理有限公司",
+    "fundManager": "徐猛",
+    "fundCode": "513330"
+  },
+  "147": {
+    "fundName": "教育ETF",
+    "trusteeName": "中国银行股份有限公司",
+    "fundAbbr": "教育ETF",
+    "companyName": "博时基金管理有限公司",
+    "fundManager": "万琼",
+    "fundCode": "513360"
+  },
+  "148": {
+    "fundName": "标普500ETF",
+    "trusteeName": "中国工商银行股份有限公司",
+    "fundAbbr": "标普500",
+    "companyName": "博时基金管理有限公司",
+    "fundManager": "博时基金管理有限公司",
+    "fundCode": "513500"
+  },
+  "149": {
+    "fundName": "日经ETF",
+    "trusteeName": "中国建设银行股份有限公司",
+    "fundAbbr": "日经ETF",
+    "companyName": "华夏基金管理有限公司",
+    "fundManager": "赵宗庭",
+    "fundCode": "513520"
+  },
+  "150": {
+    "fundName": "港股通红利ETF",
+    "trusteeName": "交通银行股份有限公司",
+    "fundAbbr": "港股红利",
+    "companyName": "华泰柏瑞基金管理有限公司",
+    "fundManager": "李茜、何琦",
+    "fundCode": "513530"
+  },
+  "151": {
+    "fundName": "港股通50ETF",
+    "trusteeName": "招商银行股份有限公司",
+    "fundAbbr": "港股通50",
+    "companyName": "华泰柏瑞基金管理有限公司",
+    "fundManager": "李茜\\何琦",
+    "fundCode": "513550"
+  },
+  "152": {
+    "fundName": "恒生科技ETF基金",
+    "trusteeName": "中国银行股份有限公司",
+    "fundAbbr": "HS科技",
+    "companyName": "华安基金管理有限公司",
+    "fundManager": "苏卿云、倪斌",
+    "fundCode": "513580"
+  },
+  "153": {
+    "fundName": "香港消费ETF",
+    "trusteeName": "华泰证券股份有限公司",
+    "fundAbbr": "香港消费",
+    "companyName": "鹏华基金管理有限公司",
+    "fundManager": "张羽翔",
+    "fundCode": "513590"
+  },
+  "154": {
+    "fundName": "恒生指数ETF",
+    "trusteeName": "中国工商银行股份有限公司",
+    "fundAbbr": "恒指ETF",
+    "companyName": "南方基金管理股份有限公司",
+    "fundManager": "南方基金管理有限公司",
+    "fundCode": "513600"
+  },
+  "155": {
+    "fundName": "恒生ETF",
+    "trusteeName": "中国农业银行股份有限公司",
+    "fundAbbr": "恒生通",
+    "companyName": "华夏基金管理有限公司",
+    "fundManager": "华夏基金管理有限公司",
+    "fundCode": "513660"
+  },
+  "156": {
+    "fundName": "恒生国企ETF",
+    "trusteeName": "兴业银行股份有限公司",
+    "fundAbbr": "建信H股",
+    "companyName": "建信基金管理有限责任公司",
+    "fundManager": "薛玲",
+    "fundCode": "513680"
+  },
+  "157": {
+    "fundName": "恒生高股息ETF",
+    "trusteeName": "中国国际金融股份有限公司",
+    "fundAbbr": "恒生股息",
+    "companyName": "博时基金管理有限公司",
+    "fundManager": "万琼",
+    "fundCode": "513690"
+  },
+  "158": {
+    "fundName": "香港医药ETF",
+    "trusteeName": "广发证券股份有限公司",
+    "fundAbbr": "香港医药",
+    "companyName": "鹏华基金管理有限公司",
+    "fundManager": "张羽翔",
+    "fundCode": "513700"
+  },
+  "159": {
+    "fundName": "港股互联网ETF",
+    "trusteeName": "中国工商银行股份有限公司",
+    "fundAbbr": "港股互联",
+    "companyName": "华宝基金管理有限公司",
+    "fundManager": "周晶、丰晨成",
+    "fundCode": "513770"
+  },
+  "160": {
+    "fundName": "东京证券指数ETF",
+    "trusteeName": "中国工商银行股份有限公司",
+    "fundAbbr": "东证ETF",
+    "companyName": "南方基金管理股份有限公司",
+    "fundManager": "崔蕾",
+    "fundCode": "513800"
+  },
+  "161": {
+    "fundName": "港股通科技ETF",
+    "trusteeName": "中国银行股份有限公司",
+    "fundAbbr": "HKC科技",
+    "companyName": "海富通基金管理有限公司",
+    "fundManager": "江勇、陶意非",
+    "fundCode": "513860"
+  },
+  "162": {
+    "fundName": "日经225ETF",
+    "trusteeName": "中国银行股份有限公司",
+    "fundAbbr": "日经225",
+    "companyName": "华安基金管理有限公司",
+    "fundManager": "倪斌",
+    "fundCode": "513880"
+  },
+  "163": {
+    "fundName": "HK科技ETF",
+    "trusteeName": "中国工商银行股份有限公司",
+    "fundAbbr": "HK科技",
+    "companyName": "上投摩根基金管理有限公司",
+    "fundManager": "张军",
+    "fundCode": "513890"
+  },
+  "164": {
+    "fundName": "港股通100ETF",
+    "trusteeName": "中国农业银行股份有限公司",
+    "fundAbbr": "港股100",
+    "companyName": "华安基金管理有限公司",
+    "fundManager": "徐宜宜",
+    "fundCode": "513900"
+  },
+  "165": {
+    "fundName": "港股通消费ETF",
+    "trusteeName": "平安银行股份有限公司",
+    "fundAbbr": "港股消费",
+    "companyName": "博时基金管理有限公司",
+    "fundManager": "万琼",
+    "fundCode": "513960"
+  },
+  "166": {
+    "fundName": "港股科技50ETF",
+    "trusteeName": "招商银行股份有限公司",
+    "fundAbbr": "科技港股",
+    "companyName": "景顺长城基金管理有限公司",
+    "fundManager": "崔俊杰，张晓南",
+    "fundCode": "513980"
+  },
+  "167": {
+    "fundName": "港股通ETF",
+    "trusteeName": "兴业银行股份有限公司",
+    "fundAbbr": "港股通综",
+    "companyName": "招商基金管理有限公司",
+    "fundManager": "苏燕青",
+    "fundCode": "513990"
+  },
+  "168": {
+    "fundName": "科技ETF",
+    "trusteeName": "中国工商银行股份有限公司",
+    "fundAbbr": "科技ETF",
+    "companyName": "华宝基金管理有限公司",
+    "fundManager": "胡洁",
+    "fundCode": "515000"
+  },
+  "169": {
+    "fundName": "券商ETF基金",
+    "trusteeName": "中国银行股份有限公司",
+    "fundAbbr": "华夏证券",
+    "companyName": "华夏基金管理有限公司",
+    "fundManager": "李俊",
+    "fundCode": "515010"
+  },
+  "170": {
+    "fundName": "银行ETF华夏",
+    "trusteeName": "中国银行股份有限公司",
+    "fundAbbr": "华夏银基",
+    "companyName": "华夏基金管理有限公司",
+    "fundManager": "李俊",
+    "fundCode": "515020"
+  },
+  "171": {
+    "fundName": "新能源车ETF",
+    "trusteeName": "中国银行股份有限公司",
+    "fundAbbr": "新汽车",
+    "companyName": "华夏基金管理有限公司",
+    "fundManager": "李俊",
+    "fundCode": "515030"
+  },
+  "172": {
+    "fundName": "5GETF",
+    "trusteeName": "中国银行股份有限公司",
+    "fundAbbr": "5GETF",
+    "companyName": "华夏基金管理有限公司",
+    "fundManager": "李俊",
+    "fundCode": "515050"
+  },
+  "173": {
+    "fundName": "房地产ETF基金",
+    "trusteeName": "中国银行股份有限公司",
+    "fundAbbr": "华夏地产",
+    "companyName": "华夏基金管理有限公司",
+    "fundManager": "李俊",
+    "fundCode": "515060"
+  },
+  "174": {
+    "fundName": "人工智能AIETF",
+    "trusteeName": "中国银行股份有限公司",
+    "fundAbbr": "AI智能",
+    "companyName": "华夏基金管理有限公司",
+    "fundManager": "李俊",
+    "fundCode": "515070"
+  },
+  "175": {
+    "fundName": "中证红利ETF",
+    "trusteeName": "上海浦东发展银行股份有限公司",
+    "fundAbbr": "中证红利",
+    "companyName": "招商基金管理有限公司",
+    "fundManager": "王平，刘重杰",
+    "fundCode": "515080"
+  },
+  "176": {
+    "fundName": "可持续发展ETF",
+    "trusteeName": "招商银行股份有限公司",
+    "fundAbbr": "可持续",
+    "companyName": "博时基金管理有限公司",
+    "fundManager": "万琼、汪洋",
+    "fundCode": "515090"
+  },
+  "177": {
+    "fundName": "红利100ETF",
+    "trusteeName": "交通银行股份有限公司",
+    "fundAbbr": "红利100",
+    "companyName": "景顺长城基金管理有限公司",
+    "fundManager": "张晓南",
+    "fundCode": "515100"
+  },
+  "178": {
+    "fundName": "一带一路国企ETF",
+    "trusteeName": "中国建设银行股份有限公司",
+    "fundAbbr": "国企方达",
+    "companyName": "易方达基金管理有限公司",
+    "fundManager": "杨俊",
+    "fundCode": "515110"
+  },
+  "179": {
+    "fundName": "创新药ETF",
+    "trusteeName": "中国银行股份有限公司",
+    "fundAbbr": "创新药",
+    "companyName": "广发基金管理有限公司",
+    "fundManager": "罗国庆",
+    "fundCode": "515120"
+  },
+  "180": {
+    "fundName": "沪深300ETF博时",
+    "trusteeName": "中国建设银行股份有限公司",
+    "fundAbbr": "HS300E",
+    "companyName": "博时基金管理有限公司",
+    "fundManager": "万琼",
+    "fundCode": "515130"
+  },
+  "181": {
+    "fundName": "一带一路ETF",
+    "trusteeName": "中国银行股份有限公司",
+    "fundAbbr": "国企富国",
+    "companyName": "富国基金管理有限公司",
+    "fundManager": "王保合、王乐乐",
+    "fundCode": "515150"
+  },
+  "182": {
+    "fundName": "MSCI中国招商ETF",
+    "trusteeName": "中国银行股份有限公司",
+    "fundAbbr": "MSCICHNA",
+    "companyName": "招商基金管理有限公司",
+    "fundManager": "白海峰",
+    "fundCode": "515160"
+  },
+  "183": {
+    "fundName": "食品饮料ETF",
+    "trusteeName": "中国银行股份有限公司",
+    "fundAbbr": "食品饮料",
+    "companyName": "华夏基金管理有限公司",
+    "fundManager": "徐猛",
+    "fundCode": "515170"
+  },
+  "184": {
+    "fundName": "红利ETF易方达",
+    "trusteeName": "中国银行股份有限公司",
+    "fundAbbr": "100红利",
+    "companyName": "易方达基金管理有限公司",
+    "fundManager": "林伟斌",
+    "fundCode": "515180"
+  },
+  "185": {
+    "fundName": "中银证券500ETF",
+    "trusteeName": "招商银行股份有限公司",
+    "fundAbbr": "BOCI500",
+    "companyName": "中银国际证券股份有限公司",
+    "fundManager": "阳桦",
+    "fundCode": "515190"
+  },
+  "186": {
+    "fundName": "创新100ETF",
+    "trusteeName": "中国农业银行股份有限公司",
+    "fundAbbr": "创新100",
+    "companyName": "申万菱信基金管理有限公司",
+    "fundManager": "龚丽丽 荆一帆",
+    "fundCode": "515200"
+  },
+  "187": {
+    "fundName": "钢铁ETF",
+    "trusteeName": "招商银行股份有限公司",
+    "fundAbbr": "钢铁ETF",
+    "companyName": "国泰基金管理有限公司",
+    "fundManager": "梁杏、徐成城",
+    "fundCode": "515210"
+  },
+  "188": {
+    "fundName": "煤炭ETF",
+    "trusteeName": "中国工商银行",
+    "fundAbbr": "煤炭ETF",
+    "companyName": "国泰基金管理有限公司",
+    "fundManager": "梁杏、徐成城",
+    "fundCode": "515220"
+  },
+  "189": {
+    "fundName": "软件ETF",
+    "trusteeName": "平安银行股份有限公司",
+    "fundAbbr": "软件ETF",
+    "companyName": "国泰基金管理有限公司",
+    "fundManager": "梁杏",
+    "fundCode": "515230"
+  },
+  "190": {
+    "fundName": "智能汽车ETF",
+    "trusteeName": "中信建投证券股份有限公司",
+    "fundAbbr": "智能汽车",
+    "companyName": "富国基金管理有限公司",
+    "fundManager": "张圣贤",
+    "fundCode": "515250"
+  },
+  "191": {
+    "fundName": "电子ETF",
+    "trusteeName": "中国建设银行股份有限公司",
+    "fundAbbr": "电子ETF",
+    "companyName": "华宝基金管理有限公司",
+    "fundManager": "蒋俊阳",
+    "fundCode": "515260"
+  },
+  "192": {
+    "fundName": "银行龙头ETF",
+    "trusteeName": "中信证券股份有限公司",
+    "fundAbbr": "银行龙头",
+    "companyName": "富国基金管理有限公司",
+    "fundManager": "",
+    "fundCode": "515280"
+  },
+  "193": {
+    "fundName": "银行ETF天弘",
+    "trusteeName": "招商证券股份有限公司",
+    "fundAbbr": "银行",
+    "companyName": "天弘基金管理有限公司",
+    "fundManager": "陈瑶",
+    "fundCode": "515290"
+  },
+  "194": {
+    "fundName": "红利低波ETF基金",
+    "trusteeName": "中国工商银行",
+    "fundAbbr": "红利300",
+    "companyName": "嘉实基金管理有限公司",
+    "fundManager": "陈正宪、何如",
+    "fundCode": "515300"
+  },
+  "195": {
+    "fundName": "沪深300添富ETF",
+    "trusteeName": "招商银行股份有限公司",
+    "fundAbbr": "添富300",
+    "companyName": "汇添富基金管理股份有限公司",
+    "fundManager": "楚天舒、董瑾",
+    "fundCode": "515310"
+  },
+  "196": {
+    "fundName": "电子50ETF",
+    "trusteeName": "中国银行股份有限公司",
+    "fundAbbr": "电子50",
+    "companyName": "华安基金管理有限公司",
+    "fundManager": "许之彦",
+    "fundCode": "515320"
+  },
+  "197": {
+    "fundName": "300ETF天弘",
+    "trusteeName": "招商证券股份有限公司",
+    "fundAbbr": "天弘300",
+    "companyName": "天弘基金管理有限公司",
+    "fundManager": "张子法",
+    "fundCode": "515330"
+  },
+  "198": {
+    "fundName": "民生加银300ETF",
+    "trusteeName": "中国农业银行股份有限公司",
+    "fundAbbr": "民生300",
+    "companyName": "民生加银基金管理有限公司",
+    "fundManager": "何江、武杰",
+    "fundCode": "515350"
+  },
+  "199": {
+    "fundName": "方正沪深300ETF",
+    "trusteeName": "中国建设银行股份有限公司",
+    "fundAbbr": "方正300",
+    "companyName": "方正富邦基金管理有限公司",
+    "fundManager": "吴昊",
+    "fundCode": "515360"
+  },
+  "200": {
+    "fundName": "泰康沪深300ETF",
+    "trusteeName": "招商银行股份有限公司",
+    "fundAbbr": "泰康300",
+    "companyName": "泰康资产管理有限责任公司",
+    "fundManager": "魏军",
+    "fundCode": "515380"
+  },
+  "201": {
+    "fundName": "华安沪深300ETF",
+    "trusteeName": "招商银行股份有限公司",
+    "fundAbbr": "HS300",
+    "companyName": "华安基金管理有限公司",
+    "fundManager": "许之彦",
+    "fundCode": "515390"
+  },
+  "202": {
+    "fundName": "大数据ETF",
+    "trusteeName": "中信证券股份有限公司",
+    "fundAbbr": "大数据",
+    "companyName": "富国基金管理有限公司",
+    "fundManager": "蔡卡尔",
+    "fundCode": "515400"
+  },
+  "203": {
+    "fundName": "红利低波50ETF",
+    "trusteeName": "中国农业银行股份有限公司",
+    "fundAbbr": "红利50",
+    "companyName": "南方基金管理股份有限公司",
+    "fundManager": "崔蕾",
+    "fundCode": "515450"
+  },
+  "204": {
+    "fundName": "中证长三角领先",
+    "trusteeName": "中国银行股份有限公司",
+    "fundAbbr": "长三角LX",
+    "companyName": "海富通基金管理有限公司",
+    "fundManager": "江勇",
+    "fundCode": "515500"
+  },
+  "205": {
+    "fundName": "500成长ETF",
+    "trusteeName": "中国银行股份有限公司",
+    "fundAbbr": "500成长",
+    "companyName": "嘉实基金管理有限公司",
+    "fundManager": "何如，陈正宪",
+    "fundCode": "515510"
+  },
+  "206": {
+    "fundName": "MSCI价值100ETF",
+    "trusteeName": "中国农业银行股份有限公司",
+    "fundAbbr": "价值100",
+    "companyName": "大成基金管理有限公司",
+    "fundManager": "黎新平、张钟玉",
+    "fundCode": "515520"
+  },
+  "207": {
+    "fundName": "泰康中证500ETF",
+    "trusteeName": "招商银行股份有限公司",
+    "fundAbbr": "泰康500",
+    "companyName": "泰康资产管理有限责任公司",
+    "fundManager": "魏军",
+    "fundCode": "515530"
+  },
+  "208": {
+    "fundName": "中融中证500ETF",
+    "trusteeName": "中国光大银行股份有限公司",
+    "fundAbbr": "中融500",
+    "companyName": "中融基金管理有限公司",
+    "fundManager": "赵菲",
+    "fundCode": "515550"
+  },
+  "209": {
+    "fundName": "证券ETF建信",
+    "trusteeName": "中信证券股份有限公司",
+    "fundAbbr": "证券E",
+    "companyName": "建信基金管理有限责任公司",
+    "fundManager": "龚佳佳",
+    "fundCode": "515560"
+  },
+  "210": {
+    "fundName": "山证红利ETF",
+    "trusteeName": "中国银行股份有限公司",
+    "fundAbbr": "山证红利",
+    "companyName": "山西证券股份有限公司",
+    "fundManager": "章海默、刘俊清",
+    "fundCode": "515570"
+  },
+  "211": {
+    "fundName": "科技100ETF",
+    "trusteeName": "中信证券股份有限公司",
+    "fundAbbr": "中证科技",
+    "companyName": "华泰柏瑞基金管理有限公司",
+    "fundManager": "柳军",
+    "fundCode": "515580"
+  },
+  "212": {
+    "fundName": "500等权ETF",
+    "trusteeName": "中国银河证券股份有限公司",
+    "fundAbbr": "500ETFEW",
+    "companyName": "前海开源基金管理有限公司",
+    "fundManager": "陶曙斌",
+    "fundCode": "515590"
+  },
+  "213": {
+    "fundName": "央企创新ETF",
+    "trusteeName": "中国工商银行股份有限公司",
+    "fundAbbr": "央企创新",
+    "companyName": "广发基金管理有限公司",
+    "fundManager": "刘杰",
+    "fundCode": "515600"
+  },
+  "214": {
+    "fundName": "中银中证800ETF",
+    "trusteeName": "中信银行股份有限公司",
+    "fundAbbr": "中银800",
+    "companyName": "中银基金管理有限公司",
+    "fundManager": "赵建忠",
+    "fundCode": "515610"
+  },
+  "215": {
+    "fundName": "证保ETF",
+    "trusteeName": "中国建设银行股份有限公司",
+    "fundAbbr": "证保ETF",
+    "companyName": "鹏华基金管理有限公司",
+    "fundManager": "张羽翔",
+    "fundCode": "515630"
+  },
+  "216": {
+    "fundName": "消费50ETF",
+    "trusteeName": "中信证券股份有限公司",
+    "fundAbbr": "消费50",
+    "companyName": "富国基金管理有限公司",
+    "fundManager": "王乐乐",
+    "fundCode": "515650"
+  },
+  "217": {
+    "fundName": "国联安沪深300ETF",
+    "trusteeName": "中国工商银行股份有限公司",
+    "fundAbbr": "沪深300E",
+    "companyName": "国联安基金管理有限公司",
+    "fundManager": "黄欣",
+    "fundCode": "515660"
+  },
+  "218": {
+    "fundName": "中银中证100ETF",
+    "trusteeName": "中信证券股份有限公司",
+    "fundAbbr": "中银100",
+    "companyName": "中银基金管理有限公司",
+    "fundManager": "赵建忠",
+    "fundCode": "515670"
+  },
+  "219": {
+    "fundName": "嘉实央企创新ETF",
+    "trusteeName": "中国银行股份有限公司",
+    "fundAbbr": "创新央企",
+    "companyName": "嘉实基金管理有限公司",
+    "fundManager": "刘珈吟",
+    "fundCode": "515680"
+  },
+  "220": {
+    "fundName": "",
+    "trusteeName": "中信证券股份有限公司",
+    "fundAbbr": "股息ETF",
+    "companyName": "鹏华基金管理有限公司",
+    "fundManager": "罗捷",
+    "fundCode": "515690"
+  },
+  "221": {
+    "fundName": "新能车ETF",
+    "trusteeName": "招商证券股份有限公司",
+    "fundAbbr": "新能车",
+    "companyName": "平安基金管理有限公司",
+    "fundManager": "钱晶",
+    "fundCode": "515700"
+  },
+  "222": {
+    "fundName": "食品ETF",
+    "trusteeName": "中国工商银行股份有限公司",
+    "fundAbbr": "食品ETF",
+    "companyName": "华宝基金管理有限公司",
+    "fundManager": "蒋俊阳",
+    "fundCode": "515710"
+  },
+  "223": {
+    "fundName": "科技50ETF",
+    "trusteeName": "中信建投证券股份有限公司",
+    "fundAbbr": "科技50",
+    "companyName": "富国基金管理有限公司",
+    "fundManager": "王乐乐",
+    "fundCode": "515750"
+  },
+  "224": {
+    "fundName": "浙江国资ETF",
+    "trusteeName": "中国农业银行股份有限公司",
+    "fundAbbr": "浙江国资",
+    "companyName": "华夏基金管理有限公司",
+    "fundManager": "庞亚平",
+    "fundCode": "515760"
+  },
+  "225": {
+    "fundName": "上投摩根MSCIAETF",
+    "trusteeName": "平安银行股份有限公司",
+    "fundAbbr": "MSCIAETF",
+    "companyName": "上投摩根基金管理有限公司",
+    "fundManager": "施虓文",
+    "fundCode": "515770"
+  },
+  "226": {
+    "fundName": "浦银MSCI中国ETF",
+    "trusteeName": "中国银行股份有限公司",
+    "fundAbbr": "浦银MSCI",
+    "companyName": "浦银安盛基金管理有限公司",
+    "fundManager": "陈士俊",
+    "fundCode": "515780"
+  },
+  "227": {
+    "fundName": "光伏ETF",
+    "trusteeName": "中国银行股份有限公司",
+    "fundAbbr": "光伏ETF",
+    "companyName": "华泰柏瑞基金管理有限公司",
+    "fundManager": "李茜",
+    "fundCode": "515790"
+  },
+  "228": {
+    "fundName": "800ETF",
+    "trusteeName": "平安银行股份有限公司",
+    "fundAbbr": "800ETF",
+    "companyName": "汇添富基金管理股份有限公司",
+    "fundManager": "过蓓蓓、乐无穹",
+    "fundCode": "515800"
+  },
+  "229": {
+    "fundName": "中证800ETF",
+    "trusteeName": "中国建设银行股份有限公司",
+    "fundAbbr": "ZZ800ETF",
+    "companyName": "易方达基金管理有限公司",
+    "fundManager": "林伟斌、刘树荣",
+    "fundCode": "515810"
+  },
+  "230": {
+    "fundName": "A800ETF",
+    "trusteeName": "中国工商银行股份有限公司",
+    "fundAbbr": "沪深800",
+    "companyName": "富国基金管理有限公司",
+    "fundManager": "富国中证800交易型开放式指数证券投资基",
+    "fundCode": "515820"
+  },
+  "231": {
+    "fundName": "工银中证800ETF",
+    "trusteeName": "兴业银行股份有限公司",
+    "fundAbbr": "工银800",
+    "companyName": "工银瑞信基金管理有限公司",
+    "fundManager": "刘伟琳、赵栩",
+    "fundCode": "515830"
+  },
+  "232": {
+    "fundName": "证券龙头ETF",
+    "trusteeName": "中国建设银行股份有限公司",
+    "fundAbbr": "证券龙头",
+    "companyName": "富国基金管理有限公司",
+    "fundManager": "王乐乐",
+    "fundCode": "515850"
+  },
+  "233": {
+    "fundName": "科技ETF基金",
+    "trusteeName": "中国银行股份有限公司",
+    "fundAbbr": "科技100",
+    "companyName": "嘉实基金管理有限公司",
+    "fundManager": "李直、金猛、高峰",
+    "fundCode": "515860"
+  },
+  "234": {
+    "fundName": "先进制造ETF",
+    "trusteeName": "中国银行股份有限公司",
+    "fundAbbr": "制造100",
+    "companyName": "嘉实基金管理有限公司",
+    "fundManager": "李直、金猛、高峰",
+    "fundCode": "515870"
+  },
+  "235": {
+    "fundName": "通信ETF",
+    "trusteeName": "中国工商银行股份有限公司",
+    "fundAbbr": "通信ETF",
+    "companyName": "国泰基金管理有限公司",
+    "fundManager": "艾小军",
+    "fundCode": "515880"
+  },
+  "236": {
+    "fundName": "红利ETF博时",
+    "trusteeName": "招商银行股份有限公司",
+    "fundAbbr": "红利博时",
+    "companyName": "博时基金管理有限公司",
+    "fundManager": "万琼",
+    "fundCode": "515890"
+  },
+  "237": {
+    "fundName": "央创ETF",
+    "trusteeName": "招商银行股份有限公司",
+    "fundAbbr": "央创ETF",
+    "companyName": "博时基金管理有限公司",
+    "fundManager": "赵云阳、杨振建",
+    "fundCode": "515900"
+  },
+  "238": {
+    "fundName": "质量ETF",
+    "trusteeName": "招商证券股份有限公司",
+    "fundAbbr": "质量ETF",
+    "companyName": "中金基金管理有限公司",
+    "fundManager": "耿帅军",
+    "fundCode": "515910"
+  },
+  "239": {
+    "fundName": "智能消费ETF",
+    "trusteeName": "申万宏源证券有限公司",
+    "fundAbbr": "智能消费",
+    "companyName": "博时基金管理有限公司",
+    "fundManager": "尹浩",
+    "fundCode": "515920"
+  },
+  "240": {
+    "fundName": "永赢沪深300ETF",
+    "trusteeName": "中国工商银行股份有限公司",
+    "fundAbbr": "永赢300",
+    "companyName": "永赢基金管理有限公司",
+    "fundManager": "万纯",
+    "fundCode": "515930"
+  },
+  "241": {
+    "fundName": "医药龙头ETF",
+    "trusteeName": "招商银行股份有限公司",
+    "fundAbbr": "医药龙头",
+    "companyName": "富国基金管理有限公司",
+    "fundManager": "",
+    "fundCode": "515950"
+  },
+  "242": {
+    "fundName": "医药健康ETF",
+    "trusteeName": "中国银行股份有限公司",
+    "fundAbbr": "医药100",
+    "companyName": "嘉实基金管理有限公司",
+    "fundManager": "李直，金猛，高峰",
+    "fundCode": "515960"
+  },
+  "243": {
+    "fundName": "人工智能ETF",
+    "trusteeName": "招商银行股份有限公司",
+    "fundAbbr": "人工智能",
+    "companyName": "华富基金管理有限公司",
+    "fundManager": "张娅、郜哲",
+    "fundCode": "515980"
+  },
+  "244": {
+    "fundName": "国企一带一路ETF",
+    "trusteeName": "中国农业银行股份有限公司",
+    "fundAbbr": "添富国企",
+    "companyName": "汇添富基金管理股份有限公司",
+    "fundManager": "吴振翔",
+    "fundCode": "515990"
+  },
+  "245": {
+    "fundName": "大数据50ETF",
+    "trusteeName": "中国银行股份有限公司",
+    "fundAbbr": "大数据50",
+    "companyName": "华夏基金管理有限公司",
+    "fundManager": "赵宗庭",
+    "fundCode": "516000"
+  },
+  "246": {
+    "fundName": "游戏ETF",
+    "trusteeName": "上海浦东发展银行股份有限公司",
+    "fundAbbr": "游戏ETF",
+    "companyName": "国泰基金管理有限公司",
+    "fundManager": "徐成城",
+    "fundCode": "516010"
+  },
+  "247": {
+    "fundName": "化工ETF",
+    "trusteeName": "中国银行股份有限公司",
+    "fundAbbr": "化工ETF",
+    "companyName": "华宝基金管理有限公司",
+    "fundManager": "陈建华",
+    "fundCode": "516020"
+  },
+  "248": {
+    "fundName": "科技龙头ETF",
+    "trusteeName": "中信证券股份有限公司",
+    "fundAbbr": "科技龙头",
+    "companyName": "工银瑞信基金管理有限公司",
+    "fundManager": "刘伟琳",
+    "fundCode": "516050"
+  },
+  "249": {
+    "fundName": "创新药产业ETF",
+    "trusteeName": "申万宏源证券有限公司",
+    "fundAbbr": "新药ETF",
+    "companyName": "工银瑞信基金管理有限公司",
+    "fundManager": "邓皓友",
+    "fundCode": "516060"
+  },
+  "250": {
+    "fundName": "碳中和50ETF",
+    "trusteeName": "申万宏源证券有限公司",
+    "fundAbbr": "碳中和50",
+    "companyName": "易方达基金管理有限公司",
+    "fundManager": "张湛",
+    "fundCode": "516070"
+  },
+  "251": {
+    "fundName": "创新药ETF易方达",
+    "trusteeName": "中国银行股份有限公司",
+    "fundAbbr": "创新医药",
+    "companyName": "易方达基金管理有限公司",
+    "fundManager": "成曦",
+    "fundCode": "516080"
+  },
+  "252": {
+    "fundName": "新能源ETF易方达",
+    "trusteeName": "中国建设银行股份有限公司",
+    "fundAbbr": "新能源E",
+    "companyName": "易方达基金管理有限公司",
+    "fundManager": "张湛",
+    "fundCode": "516090"
+  },
+  "253": {
+    "fundName": "互联网金融ETF",
+    "trusteeName": "兴业银行股份有限公司",
+    "fundAbbr": "科技金融",
+    "companyName": "华夏基金管理有限公司",
+    "fundManager": "徐猛",
+    "fundCode": "516100"
+  },
+  "254": {
+    "fundName": "汽车ETF",
+    "trusteeName": "中信银行股份有限公司",
+    "fundAbbr": "汽车ETF",
+    "companyName": "国泰基金管理有限公司",
+    "fundManager": "徐成城",
+    "fundCode": "516110"
+  },
+  "255": {
+    "fundName": "化工50ETF",
+    "trusteeName": "中国建设银行股份有限公司",
+    "fundAbbr": "化工50",
+    "companyName": "富国基金管理有限公司",
+    "fundManager": "曹璐迪",
+    "fundCode": "516120"
+  },
+  "256": {
+    "fundName": "消费龙头ETF",
+    "trusteeName": "中国银行股份有限公司",
+    "fundAbbr": "消费龙头",
+    "companyName": "华宝基金管理有限公司",
+    "fundManager": "胡洁",
+    "fundCode": "516130"
+  },
+  "257": {
+    "fundName": "稀土ETF基金",
+    "trusteeName": "中国建设银行股份有限公司",
+    "fundAbbr": "稀土基金",
+    "companyName": "嘉实基金管理有限公司",
+    "fundManager": "田光远",
+    "fundCode": "516150"
+  },
+  "258": {
+    "fundName": "新能源ETF",
+    "trusteeName": "中国农业银行股份有限公司",
+    "fundAbbr": "新能源",
+    "companyName": "南方基金管理股份有限公司",
+    "fundManager": "龚涛",
+    "fundCode": "516160"
+  },
+  "259": {
+    "fundName": "光伏ETF平安",
+    "trusteeName": "中信证券股份有限公司",
+    "fundAbbr": "光伏产业",
+    "companyName": "平安基金管理有限公司",
+    "fundManager": "刘洁倩",
+    "fundCode": "516180"
+  },
+  "260": {
+    "fundName": "文娱传媒ETF",
+    "trusteeName": "中国银行股份有限公司",
+    "fundAbbr": "文娱ETF",
+    "companyName": "华夏基金管理有限公司",
+    "fundManager": "赵宗庭",
+    "fundCode": "516190"
+  },
+  "261": {
+    "fundName": "证券行业ETF",
+    "trusteeName": "中国建设银行股份有限公司",
+    "fundAbbr": "证券行业",
+    "companyName": "华安基金管理有限公司",
+    "fundManager": "倪斌",
+    "fundCode": "516200"
+  },
+  "262": {
+    "fundName": "银行股ETF",
+    "trusteeName": "中国银行股份有限公司",
+    "fundAbbr": "银行股",
+    "companyName": "华安基金管理有限公司",
+    "fundManager": "苏卿云",
+    "fundCode": "516210"
+  },
+  "263": {
+    "fundName": "化工龙头ETF",
+    "trusteeName": "中信建投证券股份有限公司",
+    "fundAbbr": "化工龙头",
+    "companyName": "国泰基金管理有限公司",
+    "fundManager": "王玉",
+    "fundCode": "516220"
+  },
+  "264": {
+    "fundName": "物联网50ETF",
+    "trusteeName": "中国建设银行股份有限公司",
+    "fundAbbr": "物联网50",
+    "companyName": "华夏基金管理有限公司",
+    "fundManager": "李俊",
+    "fundCode": "516260"
+  },
+  "265": {
+    "fundName": "新能源50ETF",
+    "trusteeName": "中国银行股份有限公司",
+    "fundAbbr": "新能源50",
+    "companyName": "华安基金管理有限公司",
+    "fundManager": "刘璇子",
+    "fundCode": "516270"
+  },
+  "266": {
+    "fundName": "光伏ETF基金",
+    "trusteeName": "中国建设银行股份有限公司",
+    "fundAbbr": "光伏基金",
+    "companyName": "汇添富基金管理股份有限公司",
+    "fundManager": "董瑾",
+    "fundCode": "516290"
+  },
+  "267": {
+    "fundName": "1000ETF基金",
+    "trusteeName": "招商证券股份有限公司",
+    "fundAbbr": "中证1000",
+    "companyName": "华泰柏瑞基金管理有限公司",
+    "fundManager": "李茜",
+    "fundCode": "516300"
+  },
+  "268": {
+    "fundName": "银行ETF易方达",
+    "trusteeName": "中国建设银行股份有限公司",
+    "fundAbbr": "银行指基",
+    "companyName": "易方达基金管理有限公司",
+    "fundManager": "刘树荣",
+    "fundCode": "516310"
+  },
+  "269": {
+    "fundName": "高端装备ETF",
+    "trusteeName": "中国银行股份有限公司",
+    "fundAbbr": "装备ETF",
+    "companyName": "华夏基金管理有限公司",
+    "fundManager": "严筱娴",
+    "fundCode": "516320"
+  },
+  "270": {
+    "fundName": "物联网ETF",
+    "trusteeName": "上海浦东发展银行股份有限公司",
+    "fundAbbr": "物联网",
+    "companyName": "华泰柏瑞基金管理有限公司",
+    "fundManager": "李茜",
+    "fundCode": "516330"
+  },
+  "271": {
+    "fundName": "芯片50ETF",
+    "trusteeName": "中国银行股份有限公司",
+    "fundAbbr": "芯片50",
+    "companyName": "易方达基金管理有限公司",
+    "fundManager": "张湛",
+    "fundCode": "516350"
+  },
+  "272": {
+    "fundName": "新材料ETF",
+    "trusteeName": "中国工商银行股份有限公司",
+    "fundAbbr": "新材料",
+    "companyName": "华宝基金管理有限公司",
+    "fundManager": "陈建华",
+    "fundCode": "516360"
+  },
+  "273": {
+    "fundName": "智能电动车ETF",
+    "trusteeName": "中国建设银行股份有限公司",
+    "fundAbbr": "智能电车",
+    "companyName": "华宝基金管理有限公司",
+    "fundManager": "陈建华",
+    "fundCode": "516380"
+  },
+  "274": {
+    "fundName": "新能源汽车ETF",
+    "trusteeName": "中国工商银行股份有限公司",
+    "fundAbbr": "电动车",
+    "companyName": "汇添富基金管理股份有限公司",
+    "fundManager": "过蓓蓓",
+    "fundCode": "516390"
+  },
+  "275": {
+    "fundName": "新材料ETF基金",
+    "trusteeName": "国泰君安证券股份有限公司",
+    "fundAbbr": "新材料基",
+    "companyName": "国联安基金管理有限公司",
+    "fundManager": "章椹元、黄欣",
+    "fundCode": "516480"
+  },
+  "276": {
+    "fundName": "生物科技ETF",
+    "trusteeName": "中国建设银行股份有限公司",
+    "fundAbbr": "生物ETF",
+    "companyName": "华夏基金管理有限公司",
+    "fundManager": "李俊",
+    "fundCode": "516500"
+  },
+  "277": {
+    "fundName": "云计算ETF",
+    "trusteeName": "招商银行股份有限公司",
+    "fundAbbr": "云计算",
+    "companyName": "易方达基金管理有限公司",
+    "fundManager": "张湛",
+    "fundCode": "516510"
+  },
+  "278": {
+    "fundName": "智能驾驶ETF",
+    "trusteeName": "申万宏源证券有限公司",
+    "fundAbbr": "智能驾驶",
+    "companyName": "华泰柏瑞基金管理有限公司",
+    "fundManager": "李茜",
+    "fundCode": "516520"
+  },
+  "279": {
+    "fundName": "物流快递ETF",
+    "trusteeName": "招商银行股份有限公司",
+    "fundAbbr": "物流快递",
+    "companyName": "银华基金管理股份有限公司",
+    "fundManager": "王帅先生",
+    "fundCode": "516530"
+  },
+  "280": {
+    "fundName": "农业ETF",
+    "trusteeName": "中国银行股份有限公司",
+    "fundAbbr": "农业ETF",
+    "companyName": "嘉实基金管理有限公司",
+    "fundManager": "高峰、李直",
+    "fundCode": "516550"
+  },
+  "281": {
+    "fundName": "养老ETF",
+    "trusteeName": "中国建设银行股份有限公司",
+    "fundAbbr": "养老ETF",
+    "companyName": "华宝基金管理有限公司",
+    "fundManager": "张放",
+    "fundCode": "516560"
+  },
+  "282": {
+    "fundName": "化工行业ETF",
+    "trusteeName": "招商银行股份有限公司",
+    "fundAbbr": "石化ETF",
+    "companyName": "易方达基金管理有限公司",
+    "fundManager": "宋钊贤",
+    "fundCode": "516570"
+  },
+  "283": {
+    "fundName": "新能源主题ETF",
+    "trusteeName": "中信建投证券股份有限公司",
+    "fundAbbr": "新能源BS",
+    "companyName": "博时基金管理有限公司",
+    "fundManager": "尹浩",
+    "fundCode": "516580"
+  },
+  "284": {
+    "fundName": "智能汽车50ETF",
+    "trusteeName": "招商银行股份有限公司",
+    "fundAbbr": "电动汽车",
+    "companyName": "易方达基金管理有限公司",
+    "fundManager": "成曦",
+    "fundCode": "516590"
+  },
+  "285": {
+    "fundName": "消费服务ETF",
+    "trusteeName": "中信建投证券股份有限公司",
+    "fundAbbr": "消服ETF",
+    "companyName": "工银瑞信基金管理有限公司",
+    "fundManager": "邓皓友",
+    "fundCode": "516600"
+  },
+  "286": {
+    "fundName": "医疗服务ETF",
+    "trusteeName": "上海银行股份有限公司",
+    "fundAbbr": "医服ETF",
+    "companyName": "大成基金管理有限公司",
+    "fundManager": "夏高",
+    "fundCode": "516610"
+  },
+  "287": {
+    "fundName": "影视ETF",
+    "trusteeName": "中信建投证券股份有限公司",
+    "fundAbbr": "影视ETF",
+    "companyName": "国泰基金管理有限公司",
+    "fundManager": "王玉",
+    "fundCode": "516620"
+  },
+  "288": {
+    "fundName": "云计算50ETF",
+    "trusteeName": "中国银行股份有限公司",
+    "fundAbbr": "云计算50",
+    "companyName": "华夏基金管理有限公司",
+    "fundManager": "赵宗庭",
+    "fundCode": "516630"
+  },
+  "289": {
+    "fundName": "芯片龙头ETF",
+    "trusteeName": "兴业银行股份有限公司",
+    "fundAbbr": "芯片龙头",
+    "companyName": "富国基金管理有限公司",
+    "fundManager": "张圣贤",
+    "fundCode": "516640"
+  },
+  "290": {
+    "fundName": "有色50ETF",
+    "trusteeName": "中信银行股份有限公司",
+    "fundAbbr": "有色50",
+    "companyName": "华夏基金管理有限公司",
+    "fundManager": "赵宗庭",
+    "fundCode": "516650"
+  },
+  "291": {
+    "fundName": "新能汽车ETF",
+    "trusteeName": "中国农业银行股份有限公司",
+    "fundAbbr": "新能汽车",
+    "companyName": "华安基金管理有限公司",
+    "fundManager": "倪斌",
+    "fundCode": "516660"
+  },
+  "292": {
+    "fundName": "畜牧养殖ETF",
+    "trusteeName": "中信建投证券股份有限公司",
+    "fundAbbr": "畜牧养殖",
+    "companyName": "招商基金管理有限公司",
+    "fundManager": "刘重杰",
+    "fundCode": "516670"
+  },
+  "293": {
+    "fundName": "有色ETF基金",
+    "trusteeName": "中国国际金融股份有限公司",
+    "fundAbbr": "有色金属",
+    "companyName": "建信基金管理有限责任公司",
+    "fundManager": "龚佳佳",
+    "fundCode": "516680"
+  },
+  "294": {
+    "fundName": "化工产业ETF",
+    "trusteeName": "中国工商银行股份有限公司",
+    "fundAbbr": "化工产业",
+    "companyName": "银华基金管理股份有限公司",
+    "fundManager": "王帅先生",
+    "fundCode": "516690"
+  },
+  "295": {
+    "fundName": "大数据产业ETF",
+    "trusteeName": "中国建设银行股份有限公司",
+    "fundAbbr": "数据产业",
+    "companyName": "华宝基金管理有限公司",
+    "fundManager": "张放",
+    "fundCode": "516700"
+  },
+  "296": {
+    "fundName": "新材料50ETF",
+    "trusteeName": "中国建设银行股份有限公司",
+    "fundAbbr": "新材料50",
+    "companyName": "华夏基金管理有限公司",
+    "fundManager": "赵宗庭",
+    "fundCode": "516710"
+  },
+  "297": {
+    "fundName": "ESGETF",
+    "trusteeName": "华夏银行股份有限公司",
+    "fundAbbr": "ESGETF",
+    "companyName": "浦银安盛基金管理有限公司",
+    "fundManager": "陈士俊、高钢杰",
+    "fundCode": "516720"
+  },
+  "298": {
+    "fundName": "证券公司ETF",
+    "trusteeName": "招商银行股份有限公司",
+    "fundAbbr": "证券公司",
+    "companyName": "浦银安盛基金管理有限公司",
+    "fundManager": "陈士俊、高钢杰",
+    "fundCode": "516730"
+  },
+  "299": {
+    "fundName": "建材ETF",
+    "trusteeName": "上海浦东发展银行股份有限公司",
+    "fundAbbr": "建材ETF",
+    "companyName": "富国基金管理有限公司",
+    "fundManager": "牛志冬",
+    "fundCode": "516750"
+  },
+  "300": {
+    "fundName": "养殖ETF",
+    "trusteeName": "招商银行股份有限公司",
+    "fundAbbr": "养殖ETF",
+    "companyName": "平安基金管理有限公司",
+    "fundManager": "钱晶、刘洁倩",
+    "fundCode": "516760"
+  },
+  "301": {
+    "fundName": "游戏动漫ETF",
+    "trusteeName": "招商银行股份有限公司",
+    "fundAbbr": "游戏动漫",
+    "companyName": "华泰柏瑞基金管理有限公司",
+    "fundManager": "李茜",
+    "fundCode": "516770"
+  },
+  "302": {
+    "fundName": "稀土ETF",
+    "trusteeName": "中国银河证券股份有限公司",
+    "fundAbbr": "稀土ETF",
+    "companyName": "华泰柏瑞基金管理有限公司",
+    "fundManager": "李茜",
+    "fundCode": "516780"
+  },
+  "303": {
+    "fundName": "医疗保健ETF",
+    "trusteeName": "中国银行股份有限公司",
+    "fundAbbr": "保健ETF",
+    "companyName": "华泰柏瑞基金管理有限公司",
+    "fundManager": "柳军",
+    "fundCode": "516790"
+  },
+  "304": {
+    "fundName": "智能制造ETF",
+    "trusteeName": "中国工商银行股份有限公司",
+    "fundAbbr": "智能制造",
+    "companyName": "华宝基金管理有限公司",
+    "fundManager": "张放",
+    "fundCode": "516800"
+  },
+  "305": {
+    "fundName": "农业50ETF",
+    "trusteeName": "中国农业银行股份有限公司",
+    "fundAbbr": "农业",
+    "companyName": "华夏基金管理有限公司",
+    "fundManager": "李俊",
+    "fundCode": "516810"
+  },
+  "306": {
+    "fundName": "医疗创新ETF",
+    "trusteeName": "交通银行股份有限公司",
+    "fundAbbr": "医疗创新",
+    "companyName": "平安基金管理有限公司",
+    "fundManager": "钱晶",
+    "fundCode": "516820"
+  },
+  "307": {
+    "fundName": "300ESGETF",
+    "trusteeName": "中国农业银行股份有限公司",
+    "fundAbbr": "300ESG",
+    "companyName": "富国基金管理有限公司",
+    "fundManager": "蔡卡尔",
+    "fundCode": "516830"
+  },
+  "308": {
+    "fundName": "新能源80ETF",
+    "trusteeName": "中国银行股份有限公司",
+    "fundAbbr": "新能源80",
+    "companyName": "华夏基金管理有限公司",
+    "fundManager": "赵宗庭",
+    "fundCode": "516850"
+  },
+  "309": {
+    "fundName": "金融科技ETF",
+    "trusteeName": "中国建设银行股份有限公司",
+    "fundAbbr": "金融科技",
+    "companyName": "博时基金管理有限公司",
+    "fundManager": "尹浩",
+    "fundCode": "516860"
+  },
+  "310": {
+    "fundName": "光伏50ETF",
+    "trusteeName": "招商银行股份有限公司",
+    "fundAbbr": "光伏50",
+    "companyName": "银华基金管理股份有限公司",
+    "fundManager": "李宜璇女士、王帅先生",
+    "fundCode": "516880"
+  },
+  "311": {
+    "fundName": "新材料ETF平安",
+    "trusteeName": "国泰君安证券股份有限公司",
+    "fundAbbr": "新材ETF",
+    "companyName": "平安基金管理有限公司",
+    "fundManager": "刘洁倩",
+    "fundCode": "516890"
+  },
+  "312": {
+    "fundName": "食品50ETF",
+    "trusteeName": "中国建设银行股份有限公司",
+    "fundAbbr": "食品50",
+    "companyName": "华安基金管理有限公司",
+    "fundManager": "倪斌、马丁",
+    "fundCode": "516900"
+  },
+  "313": {
+    "fundName": "物流ETF",
+    "trusteeName": "兴业银行股份有限公司",
+    "fundAbbr": "物流ETF",
+    "companyName": "富国基金管理有限公司",
+    "fundManager": "张圣贤",
+    "fundCode": "516910"
+  },
+  "314": {
+    "fundName": "芯片ETF基金",
+    "trusteeName": "招商银行股份有限公司",
+    "fundAbbr": "芯片基金",
+    "companyName": "汇添富基金管理股份有限公司",
+    "fundManager": "乐无穹",
+    "fundCode": "516920"
+  },
+  "315": {
+    "fundName": "生物科技ETF基金",
+    "trusteeName": "中信建投证券股份有限公司",
+    "fundAbbr": "生科ETF",
+    "companyName": "民生加银基金管理有限公司",
+    "fundManager": "武杰",
+    "fundCode": "516930"
+  },
+  "316": {
+    "fundName": "基建ETF",
+    "trusteeName": "招商银行股份有限公司",
+    "fundAbbr": "基建ETF",
+    "companyName": "银华基金管理股份有限公司",
+    "fundManager": "王帅先生",
+    "fundCode": "516950"
+  },
+  "317": {
+    "fundName": "机械ETF",
+    "trusteeName": "中信建投证券股份有限公司",
+    "fundAbbr": "机械ETF",
+    "companyName": "国泰基金管理有限公司",
+    "fundManager": "徐成城",
+    "fundCode": "516960"
+  },
+  "318": {
+    "fundName": "基建50ETF",
+    "trusteeName": "交通银行股份有限公司",
+    "fundAbbr": "基建50",
+    "companyName": "广发基金管理有限公司",
+    "fundManager": "霍华明",
+    "fundCode": "516970"
+  },
+  "319": {
+    "fundName": "证券ETF先锋",
+    "trusteeName": "中国银行股份有限公司",
+    "fundAbbr": "证券先锋",
+    "companyName": "华富基金管理有限公司",
+    "fundManager": "",
+    "fundCode": "516980"
+  },
+  "320": {
+    "fundName": "沪港深500ETF",
+    "trusteeName": "招商银行股份有限公司",
+    "fundAbbr": "沪港深",
+    "companyName": "银华基金管理股份有限公司",
+    "fundManager": "李宜璇女士、王帅先生",
+    "fundCode": "517000"
+  },
+  "321": {
+    "fundName": "沪港深500ETF指数",
+    "trusteeName": "中国工商银行股份有限公司",
+    "fundAbbr": "HGS500E",
+    "companyName": "易方达基金管理有限公司",
+    "fundManager": "成曦",
+    "fundCode": "517010"
+  },
+  "322": {
+    "fundName": "沪港深300ETF基金",
+    "trusteeName": "中国银行股份有限公司",
+    "fundAbbr": "HGS300",
+    "companyName": "易方达基金管理有限公司",
+    "fundManager": "成曦",
+    "fundCode": "517030"
+  },
+  "323": {
+    "fundName": "互联网50ETF",
+    "trusteeName": "中信建投证券股份有限公司",
+    "fundAbbr": "互联网50",
+    "companyName": "华泰柏瑞基金管理有限公司",
+    "fundManager": "李茜\\何琦",
+    "fundCode": "517050"
+  },
+  "324": {
+    "fundName": "沪港深ETF500",
+    "trusteeName": "中国银行股份有限公司",
+    "fundAbbr": "沪港深ET",
+    "companyName": "华宝基金管理有限公司",
+    "fundManager": "蒋俊阳",
+    "fundCode": "517060"
+  },
+  "325": {
+    "fundName": "沪港深500ETF基金",
+    "trusteeName": "中国工商银行股份有限公司",
+    "fundAbbr": "HGS500",
+    "companyName": "汇添富基金管理股份有限公司",
+    "fundManager": "董瑾",
+    "fundCode": "517080"
+  },
+  "326": {
+    "fundName": "共赢ETF",
+    "trusteeName": "中国农业银行股份有限公司",
+    "fundAbbr": "共赢ETF",
+    "companyName": "国泰基金管理有限公司",
+    "fundManager": "梁杏、徐成城",
+    "fundCode": "517090"
+  },
+  "327": {
+    "fundName": "AH500ETF",
+    "trusteeName": "中国银行股份有限公司",
+    "fundAbbr": "AH500ETF",
+    "companyName": "富国基金管理有限公司",
+    "fundManager": "张圣贤",
+    "fundCode": "517100"
+  },
+  "328": {
+    "fundName": "创新药沪深港ETF",
+    "trusteeName": "招商银行股份有限公司",
+    "fundAbbr": "创新药HK",
+    "companyName": "国泰基金管理有限公司",
+    "fundManager": "梁杏",
+    "fundCode": "517110"
+  },
+  "329": {
+    "fundName": "沪港深创新药ETF",
+    "trusteeName": "上海浦东发展银行股份有限公司",
+    "fundAbbr": "创新药50",
+    "companyName": "华泰柏瑞基金管理有限公司",
+    "fundManager": "柳军",
+    "fundCode": "517120"
+  },
+  "330": {
+    "fundName": "长江保护主题ETF",
+    "trusteeName": "中国农业银行股份有限公司",
+    "fundAbbr": "长江ETF",
+    "companyName": "南方基金管理股份有限公司",
+    "fundManager": "龚涛",
+    "fundCode": "517160"
+  },
+  "331": {
+    "fundName": "沪港深ETF",
+    "trusteeName": "中国银行股份有限公司",
+    "fundAbbr": "沪港深E",
+    "companyName": "华夏基金管理有限公司",
+    "fundManager": "徐猛",
+    "fundCode": "517170"
+  },
+  "332": {
+    "fundName": "开放共赢ETF",
+    "trusteeName": "中国工商银行股份有限公司",
+    "fundAbbr": "开放共赢",
+    "companyName": "南方基金管理股份有限公司",
+    "fundManager": "龚涛",
+    "fundCode": "517180"
+  },
+  "333": {
+    "fundName": "互联网ETF",
+    "trusteeName": "中国建设银行股份有限公司",
+    "fundAbbr": "互联网",
+    "companyName": "嘉实基金管理有限公司",
+    "fundManager": "高峰、李直",
+    "fundCode": "517200"
+  },
+  "334": {
+    "fundName": "沪港深科技TOPETF",
+    "trusteeName": "光大证券股份有限公司",
+    "fundAbbr": "科技TOP",
+    "companyName": "浦银安盛基金管理有限公司",
+    "fundManager": "高钢杰",
+    "fundCode": "517270"
+  },
+  "335": {
+    "fundName": "网购ETF",
+    "trusteeName": "中信证券股份有限公司",
+    "fundAbbr": "网购ETF",
+    "companyName": "天弘基金管理有限公司",
+    "fundManager": "张子法、胡超",
+    "fundCode": "517280"
+  },
+  "336": {
+    "fundName": "沪港深300ETF",
+    "trusteeName": "招商银行股份有限公司",
+    "fundAbbr": "AH300ETF",
+    "companyName": "国寿安保基金管理有限公司",
+    "fundManager": "李康",
+    "fundCode": "517300"
+  },
+  "337": {
+    "fundName": "长江保护ETF",
+    "trusteeName": "中信证券股份有限公司",
+    "fundAbbr": "长江保护",
+    "companyName": "易方达基金管理有限公司",
+    "fundManager": "刘树荣",
+    "fundCode": "517330"
+  },
+  "338": {
+    "fundName": "中概科技ETF",
+    "trusteeName": "中国建设银行股份有限公司",
+    "fundAbbr": "中概科技",
+    "companyName": "广发基金管理有限公司",
+    "fundManager": "罗国庆",
+    "fundCode": "517350"
+  },
+  "339": {
+    "fundName": "沪港深科技ETF",
+    "trusteeName": "中国农业银行股份有限公司",
+    "fundAbbr": "AH科技",
+    "companyName": "华安基金管理有限公司",
+    "fundManager": "倪斌、马丁",
+    "fundCode": "517360"
+  },
+  "340": {
+    "fundName": "创新药沪港深ETF",
+    "trusteeName": "海通证券股份有限公司",
+    "fundAbbr": "创新药AH",
+    "companyName": "天弘基金管理有限公司",
+    "fundManager": "杨超",
+    "fundCode": "517380"
+  },
+  "341": {
+    "fundName": "云计算沪港深ETF",
+    "trusteeName": "国泰君安证券股份有限公司",
+    "fundAbbr": "云计算AH",
+    "companyName": "天弘基金管理有限公司",
+    "fundManager": "陈瑶、胡超",
+    "fundCode": "517390"
+  },
+  "342": {
+    "fundName": "游戏沪港深ETF",
+    "trusteeName": "中信建投证券股份有限公司",
+    "fundAbbr": "游戏AH",
+    "companyName": "国泰基金管理有限公司",
+    "fundManager": "黄岳",
+    "fundCode": "517500"
+  },
+  "343": {
+    "fundName": "消费ETF沪港深",
+    "trusteeName": "国信证券股份有限公司",
+    "fundAbbr": "消费主题",
+    "companyName": "招商基金管理有限公司",
+    "fundManager": "许荣漫",
+    "fundCode": "517550"
+  },
+  "344": {
+    "fundName": "物联网沪港深ETF",
+    "trusteeName": "中信建投证券股份有限公司",
+    "fundAbbr": "物联网AH",
+    "companyName": "天弘基金管理有限公司",
+    "fundManager": "陈瑶、胡超",
+    "fundCode": "517660"
+  },
+  "345": {
+    "fundName": "消费TOPETF",
+    "trusteeName": "兴业银行股份有限公司",
+    "fundAbbr": "消费TOP",
+    "companyName": "浦银安盛基金管理有限公司",
+    "fundManager": "高钢杰",
+    "fundCode": "517760"
+  },
+  "346": {
+    "fundName": "游戏传媒ETF",
+    "trusteeName": "申万宏源证券有限公司",
+    "fundAbbr": "游戏传媒",
+    "companyName": "浦银安盛基金管理有限公司",
+    "fundManager": "罗雯",
+    "fundCode": "517770"
+  },
+  "347": {
+    "fundName": "红300ETF",
+    "trusteeName": "海通证券股份有限公司",
+    "fundAbbr": "红300",
+    "companyName": "浦银安盛基金管理有限公司",
+    "fundManager": "高钢杰",
+    "fundCode": "517780"
+  },
+  "348": {
+    "fundName": "人工智能50ETF",
+    "trusteeName": "中国工商银行股份有限公司",
+    "fundAbbr": "AI50",
+    "companyName": "方正富邦基金管理有限公司",
+    "fundManager": "吴昊",
+    "fundCode": "517800"
+  },
+  "349": {
+    "fundName": "品牌消费ETF",
+    "trusteeName": "中国民生银行股份有限公司",
+    "fundAbbr": "品牌消费",
+    "companyName": "华泰柏瑞基金管理有限公司",
+    "fundManager": "谭弘翔",
+    "fundCode": "517880"
+  },
+  "350": {
+    "fundName": "银行ETF优选",
+    "trusteeName": "交通银行股份有限公司",
+    "fundAbbr": "银行优选",
+    "companyName": "招商基金管理有限公司",
+    "fundManager": "王平",
+    "fundCode": "517900"
+  },
+  "351": {
+    "fundName": "科技AHETF",
+    "trusteeName": "中国银行股份有限公司",
+    "fundAbbr": "科技AH",
+    "companyName": "上投摩根基金管理有限公司",
+    "fundManager": "",
+    "fundCode": "517960"
+  },
+  "352": {
+    "fundName": "上海金ETF",
+    "trusteeName": "招商银行股份有限公司",
+    "fundAbbr": "上海金",
+    "companyName": "广发基金管理有限公司",
+    "fundManager": "霍华明",
+    "fundCode": "518600"
+  },
+  "353": {
+    "fundName": "黄金ETF基金",
+    "trusteeName": "中国农业银行股份有限公司",
+    "fundAbbr": "工银黄金",
+    "companyName": "工银瑞信基金管理有限公司",
+    "fundManager": "赵栩",
+    "fundCode": "518660"
+  },
+  "354": {
+    "fundName": "金ETF",
+    "trusteeName": "上海浦东发展银行股份有限公司",
+    "fundAbbr": "金ETF",
+    "companyName": "富国基金管理有限公司",
+    "fundManager": "张圣贤、王乐乐",
+    "fundCode": "518680"
+  },
+  "355": {
+    "fundName": "黄金基金ETF",
+    "trusteeName": "中国工商银行股份有限公司",
+    "fundAbbr": "黄金基金",
+    "companyName": "国泰基金管理有限公司",
+    "fundManager": "国泰基金管理有限公司",
+    "fundCode": "518800"
+  },
+  "356": {
+    "fundName": "黄金ETF9999",
+    "trusteeName": "中国建设银行股份有限公司",
+    "fundAbbr": "黄金9999",
+    "companyName": "华夏基金管理有限公司",
+    "fundManager": "荣膺",
+    "fundCode": "518850"
+  },
+  "357": {
+    "fundName": "黄金ETFAU",
+    "trusteeName": "交通银行股份有限公司",
+    "fundAbbr": "上海金E",
+    "companyName": "建信基金管理有限责任公司",
+    "fundManager": "朱金钰",
+    "fundCode": "518860"
+  },
+  "358": {
+    "fundName": "黄金ETF",
+    "trusteeName": "中国建设银行股份有限公司",
+    "fundAbbr": "黄金ETF",
+    "companyName": "华安基金管理有限公司",
+    "fundManager": "华安基金管理有限公司",
+    "fundCode": "518880"
+  },
+  "359": {
+    "fundName": "中银上海金ETF",
+    "trusteeName": "招商银行股份有限公司",
+    "fundAbbr": "中银黄金",
+    "companyName": "中银基金管理有限公司",
+    "fundManager": "赵建忠",
+    "fundCode": "518890"
+  },
+  "360": {
+    "fundName": "智慧电车ETF",
+    "trusteeName": "招商银行股份有限公司",
+    "fundAbbr": "智慧电车",
+    "companyName": "浦银安盛基金管理有限公司",
+    "fundManager": "高钢杰",
+    "fundCode": "560000"
+  },
+  "361": {
+    "fundName": "MSCI中国A50ETF",
+    "trusteeName": "交通银行股份有限公司",
+    "fundAbbr": "MSCIA50",
+    "companyName": "汇添富基金管理股份有限公司",
+    "fundManager": "吴振翔、乐无穹",
+    "fundCode": "560050"
+  },
+  "362": {
+    "fundName": "中证500增强ETF",
+    "trusteeName": "中国工商银行股份有限公司",
+    "fundAbbr": "增强ETF",
+    "companyName": "南方基金管理股份有限公司",
+    "fundManager": "崔蕾",
+    "fundCode": "560100"
+  },
+  "363": {
+    "fundName": "中证500成长ETF",
+    "trusteeName": "兴业银行股份有限公司",
+    "fundAbbr": "500质量",
+    "companyName": "鹏扬基金管理有限公司",
+    "fundManager": "施红俊",
+    "fundCode": "560500"
+  },
+  "364": {
+    "fundName": "泰康碳中和ETF",
+    "trusteeName": "广发证券股份有限公司",
+    "fundAbbr": "碳中和TK",
+    "companyName": "泰康资产管理有限责任公司",
+    "fundManager": "魏军",
+    "fundCode": "560560"
+  },
+  "365": {
+    "fundName": "医药创新ETF",
+    "trusteeName": "平安银行股份有限公司",
+    "fundAbbr": "医药创新",
+    "companyName": "方正富邦基金管理有限公司",
+    "fundManager": "张超梁",
+    "fundCode": "560600"
+  },
+  "366": {
+    "fundName": "云50ETF",
+    "trusteeName": "招商证券股份有限公司",
+    "fundAbbr": "云50ETF",
+    "companyName": "新华基金管理股份有限公司",
+    "fundManager": "邓岳、张霖",
+    "fundCode": "560660"
+  },
+  "367": {
+    "fundName": "数字经济ETF",
+    "trusteeName": "招商银行股份有限公司",
+    "fundAbbr": "数字ETF",
+    "companyName": "鹏扬基金管理有限公司",
+    "fundManager": "施红俊",
+    "fundCode": "560800"
+  },
+  "368": {
+    "fundName": "家电ETF基金",
+    "trusteeName": "中国银行股份有限公司",
+    "fundAbbr": "家电基金",
+    "companyName": "广发基金管理有限公司",
+    "fundManager": "陆志明",
+    "fundCode": "560880"
+  },
+  "369": {
+    "fundName": "消费电子龙头ETF",
+    "trusteeName": "交通银行股份有限公司",
+    "fundAbbr": "电子龙头",
+    "companyName": "富国基金管理有限公司",
+    "fundManager": "张圣贤",
+    "fundCode": "561100"
+  },
+  "370": {
+    "fundName": "家电ETF",
+    "trusteeName": "交通银行股份有限公司",
+    "fundAbbr": "家电ETF",
+    "companyName": "富国基金管理有限公司",
+    "fundManager": "牛志冬",
+    "fundCode": "561120"
+  },
+  "371": {
+    "fundName": "国货ETF",
+    "trusteeName": "中国银行股份有限公司",
+    "fundAbbr": "国货ETF",
+    "companyName": "富国基金管理有限公司",
+    "fundManager": "蔡卡尔",
+    "fundCode": "561130"
+  },
+  "372": {
+    "fundName": "300增强ETF",
+    "trusteeName": "中国建设银行股份有限公司",
+    "fundAbbr": "300增ETF",
+    "companyName": "国泰基金管理有限公司",
+    "fundManager": "梁杏、谢东旭",
+    "fundCode": "561300"
+  },
+  "373": {
+    "fundName": "消电ETF",
+    "trusteeName": "中国光大银行股份有限公司",
+    "fundAbbr": "消电ETF",
+    "companyName": "国泰基金管理有限公司",
+    "fundManager": "黄岳",
+    "fundCode": "561310"
+  },
+  "374": {
+    "fundName": "国泰中证500ETF",
+    "trusteeName": "中国邮政储蓄银行股份有限公司",
+    "fundAbbr": "国泰500",
+    "companyName": "国泰基金管理有限公司",
+    "fundManager": "黄岳",
+    "fundCode": "561350"
+  },
+  "375": {
+    "fundName": "漂亮50ETF",
+    "trusteeName": "中国银行股份有限公司",
+    "fundAbbr": "漂亮50",
+    "companyName": "华泰柏瑞基金管理有限公司",
+    "fundManager": "谭弘翔",
+    "fundCode": "561500"
+  },
+  "376": {
+    "fundName": "500增强ETF",
+    "trusteeName": "中国银行股份有限公司",
+    "fundAbbr": "500指增",
+    "companyName": "华泰柏瑞基金管理有限公司",
+    "fundManager": "田汉卿、柳军",
+    "fundCode": "561550"
+  },
+  "377": {
+    "fundName": "消费电子ETF",
+    "trusteeName": "中信建投证券股份有限公司",
+    "fundAbbr": "消费电子",
+    "companyName": "平安基金管理有限公司",
+    "fundManager": "钱晶",
+    "fundCode": "561600"
+  },
+  "378": {
+    "fundName": "稀有金属ETF基金",
+    "trusteeName": "交通银行股份有限公司",
+    "fundAbbr": "稀金属",
+    "companyName": "华富基金管理有限公司",
+    "fundManager": "",
+    "fundCode": "561800"
+  },
+  "379": {
+    "fundName": "沪深300ESGETF",
+    "trusteeName": "中国银河证券股份有限公司",
+    "fundAbbr": "沪深ESG",
+    "companyName": "招商基金管理有限公司",
+    "fundManager": "刘重杰",
+    "fundCode": "561900"
+  },
+  "380": {
+    "fundName": "电池ETF",
+    "trusteeName": "光大证券股份有限公司",
+    "fundAbbr": "电池ETF",
+    "companyName": "招商基金管理有限公司",
+    "fundManager": "许荣漫",
+    "fundCode": "561910"
+  },
+  "381": {
+    "fundName": "沪深300增强ETF",
+    "trusteeName": "中国民生银行股份有限公司",
+    "fundAbbr": "300增强",
+    "companyName": "招商基金管理有限公司",
+    "fundManager": "王平、苏燕青",
+    "fundCode": "561990"
+  },
+  "382": {
+    "fundName": "碳中和ETF基金",
+    "trusteeName": "招商银行股份有限公司",
+    "fundAbbr": "低碳ETF",
+    "companyName": "银华基金管理股份有限公司",
+    "fundManager": "张凯先生",
+    "fundCode": "562300"
+  },
+  "383": {
+    "fundName": "机器人50ETF",
+    "trusteeName": "招商银行股份有限公司",
+    "fundAbbr": "机器人50",
+    "companyName": "银华基金管理股份有限公司",
+    "fundManager": "张凯先生",
+    "fundCode": "562360"
+  },
+  "384": {
+    "fundName": "机器人ETF",
+    "trusteeName": "兴业银行股份有限公司",
+    "fundAbbr": "机器人",
+    "companyName": "华夏基金管理有限公司",
+    "fundManager": "赵宗庭",
+    "fundCode": "562500"
+  },
+  "385": {
+    "fundName": "旅游ETF",
+    "trusteeName": "中国银行股份有限公司",
+    "fundAbbr": "旅游ETF",
+    "companyName": "华夏基金管理有限公司",
+    "fundManager": "严筱娴",
+    "fundCode": "562510"
+  },
+  "386": {
+    "fundName": "1000成长ETF",
+    "trusteeName": "中国农业银行股份有限公司",
+    "fundAbbr": "1000成长",
+    "companyName": "华夏基金管理有限公司",
+    "fundManager": "严筱娴",
+    "fundCode": "562520"
+  },
+  "387": {
+    "fundName": "稀有金属ETF",
+    "trusteeName": "中国银河证券股份有限公司",
+    "fundAbbr": "稀有金属",
+    "companyName": "嘉实基金管理有限公司",
+    "fundManager": "田光远",
+    "fundCode": "562800"
+  },
+  "388": {
+    "fundName": "电池ETF基金",
+    "trusteeName": "中信建投证券股份有限公司",
+    "fundAbbr": "电池基金",
+    "companyName": "嘉实基金管理有限公司",
+    "fundManager": "田光远",
+    "fundCode": "562880"
+  },
+  "389": {
+    "fundName": "现代农业ETF",
+    "trusteeName": "中国建设银行股份有限公司",
+    "fundAbbr": "现代农业",
+    "companyName": "易方达基金管理有限公司",
+    "fundManager": "宋钊贤",
+    "fundCode": "562900"
+  },
+  "390": {
+    "fundName": "高端制造ETF",
+    "trusteeName": "中信银行股份有限公司",
+    "fundAbbr": "高端制造",
+    "companyName": "易方达基金管理有限公司",
+    "fundManager": "宋钊贤",
+    "fundCode": "562910"
+  },
+  "391": {
+    "fundName": "消费电子50ETF",
+    "trusteeName": "上海浦东发展银行股份有限公司",
+    "fundAbbr": "消电50",
+    "companyName": "易方达基金管理有限公司",
+    "fundManager": "成曦",
+    "fundCode": "562950"
+  },
+  "392": {
+    "fundName": "中国A50ETF",
+    "trusteeName": "中国工商银行股份有限公司",
+    "fundAbbr": "中国A50",
+    "companyName": "易方达基金管理有限公司",
+    "fundManager": "林伟斌、宋钊贤",
+    "fundCode": "563000"
+  },
+  "393": {
+    "fundName": "科创50ETF",
+    "trusteeName": "招商银行股份有限公司",
+    "fundAbbr": "科创50",
+    "companyName": "华夏基金管理有限公司",
+    "fundManager": "张弘弢、荣膺",
+    "fundCode": "588000"
+  },
+  "394": {
+    "fundName": "科创ETF",
+    "trusteeName": "中国农业银行股份有限公司",
+    "fundAbbr": "科创ETF",
+    "companyName": "工银瑞信基金管理有限公司",
+    "fundManager": "赵栩",
+    "fundCode": "588050"
+  },
+  "395": {
+    "fundName": "科创板龙头ETF",
+    "trusteeName": "中国银行股份有限公司",
+    "fundAbbr": "上证科创",
+    "companyName": "广发基金管理有限公司",
+    "fundManager": "陆志明",
+    "fundCode": "588060"
+  },
+  "396": {
+    "fundName": "科创板50ETF",
+    "trusteeName": "中国工商银行股份有限公司",
+    "fundAbbr": "科创板50",
+    "companyName": "易方达基金管理有限公司",
+    "fundManager": "林伟斌、成曦",
+    "fundCode": "588080"
+  },
+  "397": {
+    "fundName": "科创板ETF",
+    "trusteeName": "中国建设银行股份有限公司",
+    "fundAbbr": "科创板",
+    "companyName": "华泰柏瑞基金管理有限公司",
+    "fundManager": "柳军",
+    "fundCode": "588090"
+  },
+  "398": {
+    "fundName": "科创龙头ETF",
+    "trusteeName": "中国工商银行股份有限公司",
+    "fundAbbr": "科创龙头",
+    "companyName": "南方基金管理股份有限公司",
+    "fundManager": "龚涛",
+    "fundCode": "588150"
+  },
+  "399": {
+    "fundName": "科创50ETF基金",
+    "trusteeName": "交通银行股份有限公司",
+    "fundAbbr": "科创50基",
+    "companyName": "国联安基金管理有限公司",
+    "fundManager": "黄欣、章椹元",
+    "fundCode": "588180"
+  },
+  "400": {
+    "fundName": "科创50ETF华安",
+    "trusteeName": "光大证券股份有限公司",
+    "fundAbbr": "科创五零",
+    "companyName": "华安基金管理有限公司",
+    "fundManager": "许之彦、苏卿云",
+    "fundCode": "588280"
+  },
+  "401": {
+    "fundName": "双创ETF",
+    "trusteeName": "华泰证券股份有限公司",
+    "fundAbbr": "双创ETF",
+    "companyName": "招商基金管理有限公司",
+    "fundManager": "苏燕青",
+    "fundCode": "588300"
+  },
+  "402": {
+    "fundName": "双创ETF基金",
+    "trusteeName": "交通银行股份有限公司",
+    "fundAbbr": "双创基金",
+    "companyName": "方正富邦基金管理有限公司",
+    "fundManager": "张超梁",
+    "fundCode": "588310"
+  },
+  "403": {
+    "fundName": "双创龙头ETF",
+    "trusteeName": "中国工商银行股份有限公司",
+    "fundAbbr": "双创龙头",
+    "companyName": "华宝基金管理有限公司",
+    "fundManager": "胡洁",
+    "fundCode": "588330"
+  },
+  "404": {
+    "fundName": "科创创业ETF",
+    "trusteeName": "中国邮政储蓄银行股份有限公司",
+    "fundAbbr": "创创ETF",
+    "companyName": "国泰基金管理有限公司",
+    "fundManager": "黄岳",
+    "fundCode": "588360"
+  },
+  "405": {
+    "fundName": "创50ETF",
+    "trusteeName": "中国建设银行股份有限公司",
+    "fundAbbr": "创50ETF",
+    "companyName": "富国基金管理有限公司",
+    "fundManager": "曹璐迪",
+    "fundCode": "588380"
+  },
+  "406": {
+    "fundName": "科创创业50ETF",
+    "trusteeName": "招商银行股份有限公司",
+    "fundAbbr": "科创创业",
+    "companyName": "博时基金管理有限公司",
+    "fundManager": "尹浩",
+    "fundCode": "588390"
+  },
+  "407": {
+    "fundName": "双创50ETF",
+    "trusteeName": "中国银河证券股份有限公司",
+    "fundAbbr": "双创50",
+    "companyName": "嘉实基金管理有限公司",
+    "fundManager": "田光远",
+    "fundCode": "588400"
+  }
+}
