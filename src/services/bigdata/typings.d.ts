@@ -150,6 +150,13 @@ declare namespace API {
     date?: string;
     value?: number;
   };
+  type userPrefrencesRequest={
+    id:number;
+    code:number;
+    type:string;
+    name:string;
+    description:string;
+  }
 
   type FEColumnCreateRequest = {
     columnDescription?: string;

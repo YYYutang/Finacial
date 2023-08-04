@@ -8,6 +8,7 @@ import FileUpload from "@/components/FileUpload";
 import ReactJson from "react-json-view";
 
 const ModelAdd: React.FC = () => {
+  console.log('in')
   const [tableInfo, setTableInfo] = useState<API.TableSchemaResponse>();
   const [filePath, setFilePath] = useState<string>()
   const [disable, setDisable] = useState<boolean>(false)

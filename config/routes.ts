@@ -39,12 +39,12 @@
     component: './ModelManager',
   },
   {
-    name: '用户画像',
+    name: '客户信用分数据分析',
     path: '/userPersona',
     component: './UserPersona',
   },
   {
-    name:'偏好推荐',
+    name:'客户风险偏好分析与推荐',
     path:'/userPrefrences',
     component:'./UserPrefrence'
   },
@@ -90,26 +90,6 @@
     component: './user/Manager',
   },
   {
-    name:"大数据集群管理与监控",
-    routes: [
-      {
-        name: 'HDFS',
-        path: 'http://10.16.62.146:9870',
-      },
-      {
-        name:'YARN',
-        path:'http://10.16.30.215:8088',
-      },
-      {
-        name:'MapReduce',
-        path:'http://10.16.62.146:19888',
-      }
-      
-    ]
-  },
-  
-
-  {
     path: '/model/add',
     component: './ModelManager/Add',
   },
@@ -120,4 +100,26 @@
   {
     component: './404',
   },
+  {
+    name:"大数据集群管理与监控",
+    routes: [
+      {
+        name: 'HDFS',
+        path: 'http://10.16.9.145:9870',
+      },
+      {
+        name:'YARN',
+        path:'http://10.16.30.215:8088',
+      },
+      {
+        name:'MapReduce',
+        path:'http://10.16.9.145:19888',
+      }
+      
+    ]
+  },
+  
+
+
+
 ];

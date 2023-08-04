@@ -121,32 +121,28 @@ export const layout: RunTimeLayoutConfig = ({initialState}) => {
         history.push(loginPath);
       }
     },
-    menu:{
-      request:async (params: Record<string, any>, defaultMenuData: MenuDataItem[])=>{
-        let menus:MenuDataItem[]=[]
-        let bus:API.PageInfoBusResponse= await busQueryByPageUsingGET({pageNo:1,pageSize:10})
-        bus.list?.forEach(x=>{
-          menus.push({
-            path:x.busUri+"/"+x.busId,
-            name:x.busName,
-            exact:true
-          })
-        })
+    // menu:{
+    //   request:async (params: Record<string, any>, defaultMenuData: MenuDataItem[])=>{
+    //     let menus:MenuDataItem[]=[]
+    //     let bus:API.PageInfoBusResponse= await busQueryByPageUsingGET({pageNo:1,pageSize:10})
+    //     bus.list?.forEach(x=>{
+    //       menus.push({
+    //         path:x.busUri+"/"+x.busId,
+    //         name:x.busName,
+    //         exact:true
+    //       })
+    //     })
 
      
-        return defaultMenuData.concat(menus)
+    //     return defaultMenuData.concat(menus)
         
-      }
-    },
+    //   }
+    // },
     links: isDev ? [
-        <Link to="/umi/plugin/openapi" target="_blank">
-          <LinkOutlined/>
-          <span>OpenAPI 文档</span>
-        </Link>,
-        <Link to="/~docs">
-          <BookOutlined/>
-          <span>业务组件文档</span>
-        </Link>,
+      <a href='/使用说明.pdf' download>
+          <span>软件使用说明文档</span>
+       </a>
+       
       ]:[],
     menuHeaderRender: undefined,
     // // 自定义 403 页面

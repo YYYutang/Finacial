@@ -1,4 +1,4 @@
-import { Breadcrumb, Button, Card, Col, Form, Row, Input, Descriptions, Empty } from "antd";
+import { Breadcrumb, Button, Divider, Form, Input, Descriptions } from "antd";
 import { Link } from "@umijs/preset-dumi/lib/theme";
 import { HomeOutlined } from "@ant-design/icons";
 import { userPersonaUsingGet } from "@/services/bigdata/user";
@@ -6,14 +6,26 @@ import { useEffect, useState, useRef } from "react";
 import { Chart, registerShape } from '@antv/g2';
 import { clearConfigCache } from "prettier";
 import './index.less'
+import { getInitialState } from '@//app'
 
-const UserPersona = () => {
+const UserPersona =  () => {
     const [form] = Form.useForm();
     const [userInfo, setUserInfo] = useState<any>(null);
     const chartRef = useRef<any>(null);
-    const onFinish = (values: any) => {
+    const onFinish = async (values: any) => {
         console.log(values);
-        userPersonaUsingGet({ username: values['username'] }).then((x: any) => {
+        let user: any = '';
+        if (values) {
+            user = values['username']
+        }
+        else {
+            const currentUser = await getInitialState()
+            user = currentUser.currentUser?.adminName
+
+        }
+       console.log(user)
+        await userPersonaUsingGet({ username: user }).then((x: any) => {
+           
             setUserInfo(x);
             if(!chartRef.current) {
                 if(x) {
@@ -169,6 +181,7 @@ const UserPersona = () => {
 
 
     useEffect(() => {
+        onFinish('');
     }, [])
 
     return (
@@ -178,7 +191,7 @@ const UserPersona = () => {
                     <Link to={"/"}><HomeOutlined /></Link>
                 </Breadcrumb.Item>
                 <Breadcrumb.Item>
-                    用户画像</Breadcrumb.Item>
+                客户信用分数据分析</Breadcrumb.Item>
             </Breadcrumb>
             <div className="persona-input">
                 <Form
@@ -198,14 +211,15 @@ const UserPersona = () => {
                         </Button>
                     </Form.Item>
                 </Form>
+            
             </div>
-
+            <Divider/>
+            {
+                userInfo?
             <div className="persona-info-container">
                
                 <div id="chartGauge" className="gauge-container"></div>
-                {
-                    userInfo?
-                <>
+              
                 <div className="persona-description">
                             <Descriptions title="用户画像" bordered>
                                 <Descriptions.Item label="用户名">{userInfo.userName || ''}</Descriptions.Item>
@@ -232,9 +246,9 @@ const UserPersona = () => {
                                 </Descriptions.Item>
                             </Descriptions>
                 </div>
-                </> :   <div className="empty-div"> <Empty description="搜索用户数据后展示用户画像"/></div>
-                }
-            </div>
+              
+            </div>:null
+}
 
         </div>
     )
